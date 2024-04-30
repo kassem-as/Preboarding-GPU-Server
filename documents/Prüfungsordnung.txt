@@ -1,0 +1,226 @@
+Ziel des Studiums und Zweck der Prüfungen:
+Ziel des Bachelorstudiengangs Informatik ist eine forschungsorientierte Ausbildung, die auf wissenschaftlichen Grundlagen basiert und mit der wissenschaftlichen Forschung verbunden ist. Das Studium vermittelt den Studierenden grundlegende mathematisch-technische Kenntnisse sowie das methodische Kernwissen der Informatik. Dadurch sollen sie in der Lage sein, fachliche Aufgaben in verschiedenen Berufsfeldern der Informatik eigenständig zu lösen. Weiterhin legt das Studium die wissenschaftlichen Grundlagen für ein weiterführendes Masterstudium und ermöglicht durch ein Nebenfach die Spezialisierung auf ein bestimmtes Berufsfeld. Ein erfolgreicher Abschluss des Studiums bestätigt den Erwerb der notwendigen Fachkenntnisse für den Berufseinstieg oder ein anschließendes Masterstudium, sowie die Fähigkeit zur Anwendung wissenschaftlicher Methoden und Erkenntnisse.
+
+Zugangsvoraussetzungen:
+Voraussetzung für den Zugang zum Bachelorstudiengang Informatik an der Technischen
+Universität Dortmund ist das Vorliegen einer Hochschulzugangsberechtigung oder einer
+sonstigen Qualifikation im Sinne des § 49 HG
+
+Bachelorgrad:
+Aufgrund der bestandenen Bachelorprüfung verleiht die Technische Universität Dortmund
+durch die Fakultät für Informatik den akademischen Grad „Bachelor of Science“ (B.Sc.).
+
+Leistungspunktesystem:
+Das Studium basiert auf einem Leistungspunktesystem, das mit dem European Credit Transfer System (ECTS) kompatibel ist. Jedes Modul wird entsprechend seines Arbeitsaufwands mit einer bestimmten Anzahl von Leistungspunkten bewertet. Ein Leistungspunkt entspricht einem ECTS-Punkt und repräsentiert eine Leistung, die etwa 30 Stunden Arbeitsaufwand erfordert. Pro Semester müssen in der Regel 30 Leistungspunkte erworben werden. Die Leistungspunkte werden für erfolgreich absolvierte Module vergeben.
+
+Regelstudienzeit, Studienumfang und Studienstruktur:
+Das Bachelorstudium hat eine Regelstudienzeit von sechs Semestern und umfasst insgesamt 180 Leistungspunkte, was etwa 5.400 studentischen Arbeitsstunden entspricht. Es ist in Module gegliedert, die sich über maximal zwei aufeinander folgende Semester erstrecken und inhaltlich sowie zeitlich abgerundet sind. Die Module können im Pflichtbereich, Wahlpflichtbereich und Wahlbereich absolviert werden, wobei die Studierenden Module aus einem Katalog wählen können. Leistungspunkte werden durch den erfolgreichen Abschluss der Module und dazugehöriger Prüfungen im Fachgebiet Informatik sowie in einem Nebenfach erworben. Die Struktur des Bachelorstudiengangs und die zu erwerbenden Leistungspunkte sind in Anhang A und B aufgeführt. Proseminare und andere Lehrveranstaltungen können nach Zustimmung des Prüfungsausschusses auch in englischer Sprache angeboten werden. Das Bachelorstudium kann im Sommer- oder Wintersemester begonnen werden.
+
+Mentoring:
+Die Fakultät für Informatik bietet ein Mentoringprogramm an zur Beratung und Betreuung in
+Fragen der Studien- und Prüfungsorganisation.
+
+Zulassung zu Lehrveranstaltungen mit begrenzter Zahl der Teilnehmerinnen und Teilnehmer:
+1.Die Anzahl der Teilnehmer in den Lehrveranstaltungen kann aus verschiedenen Gründen begrenzt werden.
+2.Die Festlegung der Begrenzung und einer Höchstzahl erfolgt durch den Fakultätsrat der Fakultät für Informatik und wird bekannt gegeben.
+3.Falls keine spezifische Regelung für die Zulassung existiert, gelten die folgenden Absätze.
+4.Wenn die Anzahl der Bewerber die Kapazität übersteigt, entscheidet der Dekan mit Beteiligung der Fakultätskommission für Lehre und Studium
+über den Zugang. Dabei haben Studierende Vorrang, die die Lehrveranstaltung zum Abschluss ihres Studiums benötigen.
+5.Bei der Auswahl innerhalb der Gruppe werden Studierende mit besonderen Bedürfnissen bevorzugt, gefolgt von Studierenden, die Module wiederholen müssen. Falls erforderlich, entscheidet das Los.
+6.Bewerber müssen selbst innerhalb bestimmter Fristen ihre besonderen Bedingungen geltend machen.
+7.Die Fakultät bemüht sich sicherzustellen, dass Studierende, die die Lehrveranstaltung zum Abschluss benötigen, keinen oder nur einen minimalen Zeitverlust erleiden.
+
+Prüfungen und Nachteilsausgleich:
+1.Module können durch eine einzige Prüfung oder durch mehrere Prüfungen abgeschlossen werden, je nach Modulbeschreibung.
+2.Prüfungen können schriftlich, mündlich oder elektronisch sein und werden von den jeweiligen Prüfenden festgelegt.
+3.Die Zulassung zu Modulprüfungen erfordert den erfolgreichen Abschluss der erforderlichen Voraussetzungen.
+4.Der Zugang zu Modulen kann von bestimmten Voraussetzungen abhängen, wie dem erfolgreichen Abschluss anderer Module.
+5.Zusätzlich zur Modulprüfung können in den Lehrveranstaltungen Studienleistungen verlangt werden, die separat bewertet werden.
+6.Studienleistungen sollen die Studierenden auf die Modulprüfung vorbereiten und müssen vor der Prüfungsanmeldung erbracht worden sein.
+7.Die Dauer und Form von Prüfungen sind genau definiert, ebenso wie die Verfahren für mündliche Prüfungen und Klausuren.
+8.Anwesenheitspflichten können in bestimmten Lehrveranstaltungen gelten, müssen jedoch angemessen und verhältnismäßig sein.
+9.Es gibt Regelungen für Studierende mit besonderen Bedürfnissen aufgrund von Behinderungen oder Mutterschaft.
+10.Prüfungen können in englischer Sprache durchgeführt werden, wenn dies mit den Studierenden und Prüfenden vereinbart wird.
+
+Fristen und Termine:
+1.Anmeldung zu Modulprüfungen und Teilleistungen ist normalerweise bis spätestens zwei Wochen vor dem Prüfungsbeginn erforderlich, wobei der Anmeldezeitraum mindestens zwei Wochen beträgt. Abmeldungen sind bis zu einer Woche vor mündlichen Prüfungen und bis zu einem Tag vor schriftlichen Prüfungen möglich, ohne Angabe von Gründen. Die Anmeldung zu Studienleistungen erfolgt über die Prüferinnen bzw. Prüfer.
+2.Schriftliche Prüfungstermine werden in Absprache mit den Prüferinnen und Prüfern festgelegt und spätestens sechs Wochen vor dem Ende der Vorlesungszeit bekannt gegeben.
+3.Mündliche Prüfungstermine werden mindestens vier Wochen vor dem frühesten Prüfungstermin bekannt gegeben, wobei individuelle Termine zwei Wochen vor der Prüfung festgelegt werden oder im Einvernehmen zwischen Studierenden und Prüfern.
+4.Es werden zwei studienbegleitende Prüfungstermine angeboten, die normalerweise höchstens vier Monate auseinander liegen. Der zweite Termin dient insbesondere der Wiederholung von Prüfungen, die beim ersten Termin nicht bestanden wurden.
+5.Ausnahmen im Prüfungsverfahren hinsichtlich Art, Ort und Zeitpunkt der Prüfung können vom Prüfungsausschuss auf Antrag und mit Zustimmung der Prüferin oder des Prüfers bewilligt werden, wenn ein studienfördernder Auslandsaufenthalt geplant ist und die Teilnahme am regulären Prüfungsverfahren unzumutbar ist. Der Antrag muss rechtzeitig, spätestens vier Wochen vor dem Prüfungstermin, beim Vorsitzenden des Prüfungsausschusses eingereicht werden und eine schriftliche Begründung enthalten.
+
+Wiederholung von Prüfungen, Bestehen der Bachelorprüfung, endgültiges Nichtbestehen:
+1.Benotete Modulprüfungen und Teilleistungen können zweimal wiederholt werden, wenn sie nicht bestanden sind. Bei Wiederholung einer Prüfung in schriftlicher Form muss eine mündliche Ergänzungsprüfung abgelegt werden, es sei denn, die Prüfung wird von einer anderen Fakultät durchgeführt. Es können maximal zwei mündliche Ergänzungsprüfungen absolviert werden, jedoch nicht bei einem nicht ausreichenden Ergebnis aufgrund von Täuschung, Versäumnis oder Rücktritt ohne triftige Gründe.
+2.Unbenotete Teilleistungen und Studienleistungen können beliebig oft wiederholt werden. Für Fachprojekte sind insgesamt nur zwei Wiederholungen erlaubt, und für die Module Softwarepraktikum und Hardwarepraktikum jeweils nur zwei Wiederholungen.
+3.Nebenfachprüfungen unterliegen den entsprechenden Nebenfachbestimmungen.
+4.Das Bachelorabschlussmodul kann nur einmal mit einer neuen Themenstellung für die Bachelorarbeit wiederholt werden. Die Rückgabe des Themas ist nur unter bestimmten Bedingungen möglich.
+5.Module im Wahlpflicht- und Wahlbereich können nach Prüfungsversuchen gewechselt werden, solange insgesamt maximal 44 Leistungspunkte erreicht werden.
+6.Die Bachelorprüfung wird bestanden, wenn alle geforderten Leistungen erbracht und insgesamt 180 Leistungspunkte erworben wurden.
+7.Die Bachelorprüfung gilt insgesamt als nicht bestanden, wenn das Bachelorabschlussmodul erneut nicht bestanden wird, wenn die Mindestanzahl von Leistungspunkten nicht erreicht werden kann oder wenn ein bestimmtes Modul endgültig nicht bestanden ist.
+8.Bei endgültigem Nichtbestehen der Prüfung erhält die Kandidatin oder der Kandidat einen schriftlichen Bescheid mit Rechtsbehelfsbelehrung. Eine Bescheinigung über bestandene Prüfungen wird ausgestellt, jedoch gilt diese nicht für die Vorlage an anderen Hochschulen.
+
+Prüfungsausschuss:
+Die Fakultät für Informatik bildet einen Prüfungsausschuss zur Organisation von Prüfungen gemäß der Prüfungsordnung. Der Ausschuss besteht aus sieben Mitgliedern, darunter Hochschullehrer, wissenschaftliche Mitarbeiter und Studierende des Bachelorstudiengangs Informatik. Die Amtszeit beträgt drei Jahre für die meisten Mitglieder und ein Jahr für die studentischen Mitglieder. Der Ausschuss wählt aus seinen Mitgliedern einen Vorsitzenden und einen stellvertretenden Vorsitzenden. Ihre Zusammensetzung wird vom Dekan bekannt gegeben. Der Ausschuss überwacht die Einhaltung der Prüfungsordnung, organisiert die Prüfungen, entscheidet über Widersprüche im Prüfungsverfahren und berichtet dem Fakultätsrat jährlich über die Prüfungsentwicklung. Einige Aufgaben können auf den Vorsitzenden übertragen werden, jedoch nicht Entscheidungen über Widersprüche oder die Berichtspflicht. Der Ausschuss ist beschlussfähig, wenn bestimmte Mitglieder anwesend sind, und Entscheidungen werden mit einfacher Mehrheit getroffen. Studentische Mitglieder nehmen nicht an pädagogisch-wissenschaftlichen Entscheidungen teil. Mitglieder haben das Recht, Prüfungen zu beobachten. Die Sitzungen des Ausschusses sind nicht öffentlich, aber stellvertretende Mitglieder können als Gäste teilnehmen. Alle Mitglieder unterliegen der Amtsverschwiegenheit. Der Ausschuss nutzt die Verwaltungshilfe der Zentralen Prüfungsverwaltung der Technischen Universität Dortmund und der Dekanatsadministration der Fakultät für Informatik. Der Entwurf wird vorläufig angewendet, bis er in den Amtlichen Mitteilungen veröffentlicht wird.
+
+Prüferinnen und Prüfer, Beisitzerinnen und Beisitzer:
+(1) Der Prüfungsausschuss der Fakultät für Informatik der Technischen Universität Dortmund bestellt gemäß gesetzlicher Vorgaben Prüferinnen und Prüfer sowie Beisitzerinnen und Beisitzer für Prüfungen. Hochschullehrerinnen und Hochschullehrer der Fakultät sowie andere prüfungsberechtigte Personen können als Prüfer bestellt werden. Beisitzer müssen über die erforderliche Qualifikation verfügen. Die Bestellung des Vorsitzenden kann dem Prüfungsausschuss übertragen werden.
+(2) Die Prüferinnen und Prüfer sind in ihrer Prüfungstätigkeit unabhängig.
+(3) Kandidatinnen und Kandidaten für Bachelorarbeiten können Prüferinnen und Prüfer vorschlagen. Die Berücksichtigung der Vorschläge erfolgt nach Möglichkeit, jedoch besteht kein Rechtsanspruch darauf.
+
+Anerkennung von Prüfungsleistungen, Einstufung in höhere Fachsemester:
+Für die Anerkennung von Prüfungsleistungen und die Einstufung in höhere Fachsemester
+findet die jeweils gültige Ordnung über die Anerkennung von Prüfungsleistungen für alle
+Bachelor- und Masterstudiengänge an der Technischen Universität Dortmund Anwendung.
+
+Versäumnis, Rücktritt, Täuschung und Ordnungsverstoß:
+(1) Eine Prüfung wird als nicht bestanden bewertet, wenn der Kandidat ohne triftige Gründe nicht erscheint, nach Beginn der Prüfung ohne triftige Gründe zurücktritt oder die Prüfungsleistung nicht innerhalb der vorgegebenen Zeit erbringt. Krankheitsgründe müssen durch ein ärztliches Attest nachgewiesen werden. Der Prüfungsausschuss kann eine ärztliche Bescheinigung verlangen, wenn Zweifel an der Prüfungsfähigkeit bestehen.
+(2) Bei Täuschungshandlungen während einer Prüfung, wie der Verwendung unerlaubter Hilfsmittel, gilt die Prüfung als nicht bestanden. Der Prüfungsausschuss kann bei schwerwiegenden Fällen die Kandidatin oder den Kandidaten von weiteren Prüfungsleistungen ausschließen.
+(3) Die Prüfer können eine schriftliche Erklärung verlangen, dass die Arbeit eigenständig verfasst wurde und keine unerlaubten Quellen oder Hilfsmittel verwendet wurden.
+(4) Die Kandidatin oder der Kandidat kann innerhalb von vierzehn Tagen die Überprüfung von Entscheidungen bezüglich Täuschungshandlungen durch den Prüfungsausschuss beantragen. Die belastenden Entscheidungen müssen schriftlich begründet und mit einer Rechtsbehelfsbelehrung versehen werden. Die Kandidatin oder der Kandidat hat das Recht auf rechtliches Gehör vor der Entscheidung.
+
+Zulassung zur Bachelorprüfung:
+1.Einschreibung in den Bachelorstudiengang Informatik an der Technischen Universität Dortmund oder Zulassung als Zweithörerin/Zweithörer gemäß § 52 Absatz 2 HG bedeutet automatische Zulassung zu den Prüfungen des Bachelorstudiengangs Informatik, es sei denn, die Einschreibung/Zulassung wird gemäß Absatz 2 verweigert.
+2.Einschreibung/Zulassung wird verweigert, wenn:
+a) Die Kandidatin oder der Kandidat eine erforderliche Prüfung im Bachelorstudiengang Informatik an der Technischen Universität Dortmund oder einem ähnlich relevanten Studiengang nicht bestanden hat.
+b) Die Kandidatin oder der Kandidat in einem dieser Studiengänge eine Prüfung nicht bestanden hat, einen Bescheid erhält, diesen anficht und eine rechtskräftige Entscheidung über das Nichtbestehen noch aussteht.
+
+Umfang der Bachelorprüfung:
+Die Bachelorprüfung setzt sich zusammen aus den studienbegleitenden Prüfungen im Fach
+Informatik, einschließlich der Bachelorarbeit und den studienbegleitenden
+Prüfungen im gewählten Nebenfach oder Anwendungsfach bei angewandte Informatik.
+
+Bachelorabschlussmodul:
+Das Bachelorabschlussmodul besteht aus der Bachelorarbeit, die 12 Leistungspunkte umfasst und normalerweise etwa 360 Arbeitsstunden erfordert, sowie dem Bachelorseminar mit 3 Leistungspunkten. Die Bachelorarbeit dient dazu festzustellen, ob der Studierende genügend Fachkenntnisse für den Beruf erworben hat und in der Lage ist, geeignete Methoden zur Lösung von Problemen anzuwenden. Die Vorstellung der Arbeit im Bachelorseminar zeigt die Fähigkeit des Studierenden, die Ergebnisse mündlich darzustellen und zu verteidigen. Die Arbeit kann von verschiedenen Hochschullehrern oder qualifizierten Mitgliedern der Fakultät betreut werden. Ein Antrag auf Ausgabe der Bachelorarbeit muss gestellt werden, nachdem 120 Leistungspunkte erreicht wurden. Das Thema kann innerhalb von drei Wochen nach Ausgabe einmal zurückgegeben werden. Die Bearbeitungszeit beträgt normalerweise vier Monate, kann aber unter bestimmten Umständen verlängert werden. Die Arbeit sollte zwischen 40 und 120 Seiten lang sein und als Einzelarbeit verfasst werden, auch wenn sie in einer Arbeitsgruppe bearbeitet wird. Die Kandidaten müssen versichern, dass die Arbeit eigenständig verfasst wurde und alle Quellen korrekt angegeben sind, und eine eidesstattliche Versicherung ist erforderlich, die als Teil der Arbeit eingereicht werden muss.
+
+Abgabe und Bewertung der Bachelorarbeit:
+1.Die Bachelorarbeit muss rechtzeitig in drei gedruckten Exemplaren beim Prüfungsausschuss sowie in einer elektronischen Version für Plagiatserkennungssoftware eingereicht werden. Der Zeitpunkt der Einreichung muss dokumentiert werden, und bei Postversand gilt das Datum des Poststempels. Wenn die Arbeit nicht rechtzeitig eingereicht wird, gilt sie als ungenügend (5,0 bewertet).
+2.Die Arbeit wird von zwei Prüfern begutachtet, von denen einer der Betreuer der Arbeit sein muss. Mindestens ein Prüfer muss ein promoviertes Mitglied der Fakultät für Informatik sein. Die Bewertung erfolgt nach den Richtlinien des §19 Absatz 1.
+3.Das Bachelorseminar ist eine zusätzliche Anforderung für den Abschluss des Moduls und wird nicht benotet. Es gilt als bestanden, wenn beide Prüfer die Präsentation bewerten.
+4.Die Bewertung der Arbeit erfolgt einzeln und muss schriftlich begründet werden. Wenn die Differenz der Bewertungen nicht mehr als 2,0 beträgt, wird der Durchschnitt gebildet. Wenn die Differenz größer ist oder eine Prüferin oder ein Prüfer die Arbeit mit mindestens ausreichend (4,0) bewertet, wird ein dritter Prüfer bestimmt. Die Endnote ergibt sich aus dem Durchschnitt der beiden besten Bewertungen, jedoch nur, wenn mindestens zwei Bewertungen mindestens ausreichend (4,0) sind.
+5.Die Kandidatin oder der Kandidat erhält die Bewertung der Bachelorarbeit spätestens zehn Wochen nach der Einreichung mitgeteilt.
+
+Zusatzqualifikationen:
+Studierende können vor dem Bestehen oder endgültigen Nichtbestehen der Bachelorprüfung in zusätzlichen Modulen Prüfungsleistungen erbringen, für die jedoch keine Leistungspunkte vergeben werden. Diese Prüfungen können auch in anderen Studiengängen absolviert werden.
+Wenn diese Prüfungen Module oder Lehrveranstaltungen umfassen, die im Anhang A der Ordnung aufgeführt sind, müssen die Studierenden bei der Anmeldung zur Prüfung erklären, dass es sich um eine Prüfung zur Erlangung einer Zusatzqualifikation handelt. Diese Erklärung ist endgültig, und bestandene Zusatzqualifikationen können nicht als reguläre Prüfungen gemäß § 18 anerkannt werden.
+Der vorliegende Entwurf wird vorläufig angewendet, gemäß einem Beschluss des Fakultätsrats vom 11.12.2019, bis er offiziell in den Amtlichen Mitteilungen veröffentlicht wird.
+Zusatzqualifikationen werden nicht in die Gesamtnote einbezogen, können aber auf Antrag der Studierenden im Transcript of Records festgehalten werden.
+
+Zeugnis, Bescheinigungen für einen Hochschulwechsel:
+1.Wenn ein Kandidat die Bachelorprüfung besteht, erhält er innerhalb von vier Wochen nach Mitteilung des Bestehens ein Zeugnis. Das Zeugnis enthält die Gesamtnote der Prüfung, die ECTS-Note, die Note und das Thema der Bachelorarbeit, Modulnoten und Leistungspunkte, das gewählte Nebenfach und die Studiendauer.
+2.Das Zeugnis wird vom Vorsitzenden des Prüfungsausschusses unterschrieben.
+3.Ein Diploma Supplement, das die Studieninhalte, den Verlauf, die erworbenen Kompetenzen und die Hochschule beschreibt, wird dem Zeugnis beigefügt, ebenso wie ein Transcript of Records.
+4.Das Transcript of Records kann auf Antrag zusätzliche Leistungen anzeigen, die nicht in die Noten eingehen.
+5.Vor Abschluss der Bachelorprüfung kann auf Antrag eine Notenbescheinigung mit einer Liste der abgeschlossenen Module und Noten erstellt werden.
+6.Auf Antrag kann eine englische Übersetzung des Zeugnisses ausgehändigt werden, in Absprache mit dem Prüfungsausschuss.
+
+Bachelorurkunde:
+Gemäß einem Entwurf, der vorläufig angewendet wird, erhält die Kandidatin oder der Kandidat eine Bachelorurkunde mit dem Datum des Zeugnisses. Diese Urkunde bescheinigt die Verleihung des Bachelorgrades gemäß § 4 und gibt den Studiengang der Absolventin oder des Absolventen an. Die Urkunde wird von der Dekanin oder dem Dekan der Fakultät für Informatik sowie von der oder dem Vorsitzenden des Prüfungsausschusses der Fakultät für Informatik unterzeichnet und mit dem Siegel der Fakultät versehen. Zusätzlich zur deutschen Version erhält die Kandidatin oder der Kandidat eine englischsprachige Übersetzung der Urkunde.
+
+Ungültigkeit von Prüfungsleistungen und Aberkennung des Bachelorgrades:
+1.Wenn eine Kandidatin oder ein Kandidat bei einer Prüfung getäuscht hat und dies erst nach Erhalt des Zeugnisses bekannt wird, kann der Prüfungsausschuss die Noten für die betroffenen Prüfungsleistungen korrigieren und die Prüfung als nicht bestanden erklären.
+2.Wenn die Zulassungsvoraussetzungen für eine Prüfung nicht erfüllt waren, ohne dass die Kandidatin oder der Kandidat dies absichtlich verschwiegen hat und diese Tatsache erst nach Erhalt des Zeugnisses bekannt wird, wird dieser Mangel durch das Bestehen der Prüfung behoben. Wenn die Zulassung jedoch vorsätzlich zu Unrecht erlangt wurde, entscheidet der Prüfungsausschuss über die Konsequenzen.
+3.Vor einer Entscheidung gemäß den vorherigen Absätzen muss der oder die Betroffene die Gelegenheit zur Stellungnahme erhalten.
+4.Ein falsches Zeugnis wird eingezogen und gegebenenfalls durch ein neues ersetzt, wenn eine Entscheidung gemäß den vorherigen Absätzen getroffen wird. Diese Entscheidung ist jedoch fünf Jahre nach Ausstellung des Zeugnisses nicht mehr möglich.
+5.Wenn festgestellt wird, dass ein Bachelorgrad durch Täuschung erlangt wurde oder wesentliche Voraussetzungen für die Verleihung irrtümlich als erfüllt angesehen wurden, wird der Bachelorgrad aberkannt und die Urkunde eingezogen. Der Fakultätsrat der Fakultät für Informatik entscheidet über die Aberkennung.
+
+Einsicht in die Prüfungsunterlagen:
+(1) Nach Bekanntgabe der Klausurergebnisse haben Studierende das Recht auf Einsichtnahme. Die genauen Zeit und Ort werden von den Prüfern festgelegt und rechtzeitig bekannt gegeben. Es muss mindestens eine Woche zwischen Bekanntgabe der Ergebnisse und der Einsichtnahme liegen.
+(2) Studierende können auf Antrag Einsicht in ihre schriftlichen Prüfungsleistungen, die Gutachten der Prüfer sowie die Protokolle mündlicher Prüfungen erhalten. Der Antrag muss innerhalb von drei Monaten nach Bekanntgabe des Prüfungsergebnisses an den Vorsitzenden des Prüfungsausschusses gestellt werden. Die Einsichtnahme erfolgt zu einem vom Vorsitzenden festgelegten Zeitpunkt und Ort.
+
+Module der Fachgebiet Informatik (Pflichtmodule) / Computer Science Major Subjects(Modules):
+Datenstrukturen, Algorithmen und Programmierung 1 (DAP 1)
+Datenstrukturen, Algorithmen und Programmierung 2 (DAP 2)
+Softwaretechnik (SWT)
+Softwarepraktikum (SoPra)
+Rechnerstrukturen (RS)
+Elektrotechnik und Kommunikationstechnik (ETKT)
+Hardware-Praktikum (HaPra)
+Betriebssysteme (BS)
+Rechnernetze und Verteilte Systeme (RvS)
+Informationssysteme (IS)
+Mathematik für Informatik 1 (MafI1)
+Mathematik für Informatik 2 (MafI2)
+Wahrscheinlichkeitsrechnung und Mathematische Statistik (WRumS)
+Logik für Informatik (LOG)
+Grundbegriffe der Theoretischen Informatik (GTI)
+Proseminar
+Fachprojekt
+Bachelorabschlussmodul.
+Studierende mit dem Nebenfach Elektrotechnik absolvieren statt der Module ETKT und HaPra zusätzliche Module im Nebenfach
+Studierende mit dem Nebenfach Mathematik absolvieren statt der Module MafI1 und MafI2 zusätzliche Module im Nebenfach.
+
+Module der Fachgebiet Informatik (Wahlpflichtmodule) / Computer Science Elective Subjects(Modules):
+Es müssen insgesamt 16 Leistungspunkte erworben werden durch den erfolgreichen Abschluss von jeweils nur einem Modul aus jedem der folgenden zwei Modulkataloge:
+1.Systeme der Informatik:
+	-Mensch-Maschine-Interaktion (MMI)
+	-Rechnerarchitektur (RA)
+	-Eingebettete Systeme (ES)
+	-Modellgestützte Analyse und Optimierung (MAO)
+2.Algorithmisch-formale Grundlagen:
+	-Effiziente Algorithmen (EA)
+	-Darstellung, Verarbeitung und Erwerb von Wissen (DVEW)
+	-Formale Methoden des Systementwurfs (FMSE)
+Darüber sind zwei weitere Module aus dem folgenden Modulkatalog im Umfang von 8 Leistungspunkten erfolgreich abzuschließen:
+1.Konzepte für Software:
+	-Softwarekonstruktion (SWK)
+	-Übersetzerbau (ÜB)
+	-Funktionale Programmierung (FuPro)
+
+Module der Fachgebiet Angewandte Informatik (Pflichtmodule) / Applied Computer Science Major Subjects(Modules):
+Datenstrukturen, Algorithmen und Programmierung 1 (DAP 1)
+Datenstrukturen, Algorithmen und Programmierung 2 (DAP 2)
+Softwaretechnik (SWT)
+Softwarepraktikum (SoPra)
+Rechnerstrukturen (RS)
+Betriebssysteme (BS)
+Rechnernetze und Verteilte Systeme (RvS)
+Informationssysteme (IS)
+Höhere Mathematik 1 (HM1)
+Höhere Mathematik 2 (HM2)
+Höhere Mathematik 3 (HM3)
+Wahrscheinlichkeitsrechnung und Mathematische Statistik (WRumS) (WR)
+Theoretische Informatik für Studierende der Angewandten Informatik (TIfAI)
+Proseminar
+Fachprojekt (7 Leistungspunkte): kann auch im Anwendungsfach belegt werden.
+Bachelorabschlussmodul.
+Studierende mit dem Anwendungsfach Dienstleistungsinformatik absolvieren die Module Mathematik für Informatik 1 (MafI1) und Mathematik für Informatik 2 (MafI2) im Umfang von jeweils 9 Leistungspunkten, das Modul Logik für Informatik (LOG) im Umfang von 5 Leistungspunkten sowie ein Modul aus dem Modulkatalog Konzepte für Software des Wahlpflichtbereichs
+
+Module der Fachgebiet Angewandte Informatik (Wahlpflichtmodule) / Applied Computer Science Elective Subjects(Modules):
+Zur Erlangung von zusätzlichen 8 Leistungspunkten muss der Studierende entweder ein Modul aus den Modulkatalogen "Systeme der Informatik" oder "Algorithmisch-formale Grundlagen" wählen, oder zwei Module aus dem Modulkatalog "Konzepte für Software". Alternativ kann der Studierende auch ein Modul aus dem Wahlbereich und ein Modul aus dem Modulkatalog "Konzepte für Software" absolvieren.
+1.Modulkatalog Systeme der Informatik (8 Leistungspunkte):
+	a.Mensch-Maschine-Interaktion (MMI)
+	b.Rechnerarchitektur (RA)
+	c.Eingebettete Systeme (ES)
+	d.Modellgestützte Analyse und Optimierung (MAO)
+2.Modulkatalog Algorithmisch-formale Grundlagen (8 Leistungspunkte):
+	a.Effiziente Algorithmen (EA)
+	b.Darstellung, Verarbeitung und Erwerb von Wissen (DVEW)
+	c.Formale Methoden des Systementwurfs (FMSE)
+3.Modulkatalog Konzepte für Software (4 Leistungspunkte):
+	a.Softwarekonstruktion (SWK)
+	b.Übersetzerbau (ÜB)
+	c.Funktionale Programmierung (FuPro)
+
+Nebenfächer der Fachgebiet Informatk (Minor Subjects(Modules) Computer Science):
+Studierende im Fachgebiet Informatik müssen zusätzliche 20 Leistungspunkte in einem der folgenden Nebenfächer (Minor Subjects) erwerben: Maschinenbau, Physik, Rehabilitationstechnologie, Theoretische Medizin, Wirtschaftswissenschaften, oder Philosophie. Es gibt spezifische Anforderungen für Studierende mit Nebenfach Elektrotechnik (insgesamt 31 Leistungspunkte), Nebenfach Mathematik (insgesamt 38 Leistungspunkte) und Nebenfach Statistik (mindestens 24 Leistungspunkte). Andere Nebenfächer können auf Antrag genehmigt werden. Modulkataloge für jedes Nebenfach werden festgelegt und veröffentlicht. Die Leistungspunkte werden durch erfolgreichen Abschluss der entsprechenden Module erworben. Lehrinhalte und Prüfungsleistungen entsprechen in der Regel denen anderer Fakultäten, mit Abweichungen basierend auf den Nebenfachbestimmungen. Einige Pflichtveranstaltungen entfallen je nach Nebenfach.
+Für Studierende mit Nebenfach Elektrotechnik entfallen folgende Veranstaltungen im Umfang von 11 Leistungspunkten: Elektrotechnik und Nachrichtentechnik (ETNT), Hardwarepraktikum (HaPra). Sie erwerben daher Leistungspunkte aus der Elektrotechnik mit einem Umfang von insgesamt 31 Leistungspunkten. 
+Für Studierende mit dem Nebenfach Mathematik entfallen folgende Veranstaltungen im Umfang von 18 Leistungspunkten: Mathematik für Informatik 1 (MafI1), Mathematik für Informatik 2 (MafI2). Sie erwerben daher Leistungspunkte aus der Mathematik mit einem Umfang von insgesamt 38 Leistungspunkten.
+Für Studierende mit dem Nebenfach Statistik entfällt folgende Veranstaltungen im Umfang von 4 Leistungspunkten: Wahrscheinlichkeitsrechnung und Mathematische Statistik (WRumS). Sie erwerben daher Leistungspunkte aus der Statistik mit einem Umfang von insgesamt mindestens 24 Leistungspunkten.
+
+Anwendungsfächer der Fachgebiet Angewandte Informatik:
+Studierende im Fachgebiet Angewandte Informatik müssen zusätzliche 36 Leistungspunkte in einem der folgenden Anwendungsfächer erwerben: Elektrotechnik, Maschinenbau, Robotik oder Dienstleistungsinformatik.
+Studierende können auf Antrag andere als die genannten Anwendungsfächer genehmigt bekommen.
+Für jedes Anwendungsfach legt der Fakultätsrat der Fakultät für Informatik Modulkataloge fest und veröffentlicht sie.
+Im Anwendungsfach Dienstleistungsinformatik ist 36 Leistungspunkte sowohl die Mindest- als auch die Höchstgrenze für die Anrechnung auf die Bachelorprüfung.
+Die Leistungspunkte werden durch den erfolgreichen Abschluss der in den Modulkatalogen genannten Module erworben.
+Die Lehrinhalte, Ziele, Lehrformen, Teilnahmevoraussetzungen, Arbeitsbelastung und Prüfungsleistungen entsprechen im Allgemeinen denen der Studiengänge anderer Fakultäten, mit Abweichungen aufgrund der Anwendungsfachbestimmungen.
+
+Studierenden der Angewandten Informatik erwerben auch die Leistungspunkte für genau eins oder zwei der folgenden Module aus den Wirtschaftswissenschaften mti einem Umfang von insgesamt 15 Leistungspunkten:
+Markt und Absatz: 15
+Planung, Entscheidung und Wertschöpfung: 15
+Management, Technologie und Innovation I: 7
+Management, Technologie und Innovation II: 7
+Rechnungswesen und Finanzen I: 7.5
+Rechnungswesen und Finanzen II: 7.5
+Wirtschaftstheorie I: 7.5
+Wirtschaftstheorie II: 7.5

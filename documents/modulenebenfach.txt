@@ -1,0 +1,1778 @@
+Modul Name: Allgemeine und Anorganische Chemie 1
+Englischer Modultitel: General and Inorganic Chemistry 1
+Studiengang: BSc-Studiengänge: Informatik, Angewandte Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 3. Semester
+Credits: 8
+Aufwand: 240 (90/150)
+Lehrveranstaltungssprache: Deutsch
+Lehrinhalte von Allgemeine und Anorganische Chemie 1:
+1. Definition Chemie, Historisches, wissenschaftliche Methodik: Abriss der historischen Entwicklung, Bedeutung der Chemie in der modernen Gesellschaft.
+2. Klassifizierung von Stoffen und Methoden der Stofftrennung: Stoffe, Reinstoffe, Verbindungen, Destillation, Extraktion, Kristallisation, Sublimation, Chromatografie.
+3. Stöchiometrische Grundgesetze: Erhaltung der Masse, konstante Proportionen, multiple Proportionen, äquivalente Proportionen, Volumenverhältnisse bei chemischen Reaktionen, Ableitung des Molekülbegriffs, Atom- und Molekülmassen, Stoffmengenkonzentration (Molarität, Molalität), Valenzen und empirische Formeln, Cannizarro, Dulong-Petit.
+4. Chemische Energetik: Wärmeumsatz bei chemischen Reaktionen, Innere Energie, Arbeit, Enthalpiebegriff, Bildungs- und Reaktionsenthalpien, Satz von Hess, exotherme und endotherme Reaktionen, Kalorimetrie.
+5. Chemische Kinetik: Geschwindigkeit chemischer Reaktionen, Reaktionsordnung und Reaktionsmechanismus, Aktivierungsenergie, kinetische Gastheorie und qualitative Stoßtheorie chemischer Reaktionen, Wirkung und Typen von Katalysatoren (Großtechnik und Biokatalyse).
+6. Atombau und Periodensystem: Elektronen, Protonen, Neutronen, Öltröpfchenversuch, Rutherfords Streuexperiment, Isotope, Radioaktivität, Massendefekt, Altersbestimmung mit Hilfe radioaktiver Isotope, Kernspaltung, Kernfusion, Atomspektren, Linienspektrum des Wasserstoffs, Bohrsches Atommodell, Ionisierungsenergien, Elektronenaffinitäten, Röntgenspektren (Moseley-Gesetz), Periodensystem (Döbereiner Triaden, Mendeleev, periodische Trends), Elektronegativität, Grundprinzipien der Quantenmechanik (Welle-Teilchen- Dualismus der Materie, Schrödinger-Gleichung, Wellenfunktion des Wasserstoffs, Radialteil, Winkelteil, Quantenzahlen, Pauli-Prinzip, Hund'sche Regel).
+7. Die chemische Bindung: Klassifizierung verschiedener Modelle der chemischen Bindung (kovalente, ionogene und metallische Bindung, Mehrzentrenelektronenmangel- und überschußbindung, Wasserstoffbrückenbindung), Lewis-Formeln, Oktett-Regel, Oxidationszahlen, VB-Theorie, Resonanz, mesomere Grenzstrukturen, Tautomerie, VSEPR-Theorie, Dipolmoment, MO-Theorie (Beschreibung zweiatomiger Moleküle, Zusammenhang von Bindungsordnung und Bindungsenergie, isoelektronische Spezies, Fotoelektronenspektroskopie), Festkörperstrukturen (dichteste Kugelpackungen, Gitterenergie und Born-Haber- Kreisprozess, Deutung einfacher Valenzregeln bei Ionenverbindungen, qualitatives Bändermodell).
+8. Das Chemische Gleichgewicht, Säure-Base-Konzepte, Redoxreaktionen: Dynamisches Gleichgewicht und Massenwirkungsgesetz, Prinzip von Le Chatelier, 2. Hauptsatz der Thermodynamik, Entropiebegriff, Konzept von Arrhenius, Brönsted-Säuren und -Basen, Autoprotolyse von Wasser, Alkohol, Schwefelwasserstoff und Ammoniak, Säure-Base-Paare, pH- und pKs-Wert, Puffersysteme, Nivellierung, Amphoterie, Säure-Base-Titrationen, pH-Indikatoren, Löslichkeitsprodukt, Lewis-Säuren und -Basen, HSAB-Konzept nach Pearson, Oxidation und Reduktion, Galvanische Elemente, Spannungsreihe, Nernst-Gleichung, pH-Abhängigkeit der Löslichkeit, der Komplexbildung und des Redoxpotentials.
+9. Grundlagen der Stoffchemie der Hauptgruppenelemente: Die Stoffchemie der Hauptgruppenelemente einschließlich ihrer technischen Darstellung werden systematisch unter besonderer Berücksichtigung der Elemente der 1. und 2. Achterperiode behandelt.
+Ziel der Veranstaltung von Allgemeine und Anorganische Chemie 1: Grundlegende Kenntnisse über die Chemie der Hauptgruppenelemente und ausgewählter Verbindungen zu vermitteln und ein grundlegendes Verständnis von Struktur-Wirkungs-Beziehungen zu entwickeln.
+Kompetenzen von Allgemeine und Anorganische Chemie 1: Grundlegende Kenntnisse über die allgemeinen Prinzipien der Chemie, basierend auf den Hauptgruppenelementen und ausgewählten Verbindungen. Grundlegendes Verständnis von Struktur-Wirkungs-Beziehungen.
+Prüfungen von Allgemeine und Anorganische Chemie 1:
+Modulprüfung: Klausur
+Studienleistungen: Keine
+Teilnahmevoraussetzung von Allgemeine und Anorganische Chemie 1: Erfolgreich abgeschlossen: Keine
+Modultyp und Verwendbarkeit des Moduls Allgemeine und Anorganische Chemie 1: Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Chemie im Einzelfall
+Modulbeauftragte/r von Allgemeine und Anorganische Chemie 1: Prof. Dr. Klaus Jurkschat
+Zuständige Fakultät von Allgemeine und Anorganische Chemie 1: Fakultät Chemie
+
+
+Modul Name: Anorganische Chemie 2
+BSc-Studiengänge: Informatik
+Turnus: jährlich im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 6
+Aufwand: 180 (90/90)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Anorganische Chemie 2:
+Element 1:
+- Sicherheit: Verhalten im Labor, Umgang mit Gefahrstoffen, Betriebsanweisungen, Verhalten im Notfall (Sicherheitsbelehrung).
+- Grundtypen anorganisch-chemischer Reaktionen (Säure-Base, Fällung, Redox- und Komplexbildung) im Rahmen der qualitativen und quantitativen Analyse.
+Element 2:
+1. Übergangsmetalle im Periodensystem: Definition und allgemeine Charakterisierung, Stellung der Übergangsmetalle im PSE.
+2. Grundlagen der Komplexchemie: Grundbegriffe (Zentralatom, Liganden, Koordinationszahl, Koordinationspolyeder, Nomenklatur, Chelateffekt, makrozyklischer Effekt), Isomerie von Komplexen (Ionisationsisomerie einschließliche Hydratisomerie, Koordinationsisomerie, Salzisomerie, Polymerisationsisomerie, Stereoisomerie einschließlich cis- trans- und optischer Isomerie, trans-Effekt, Fließschema zur Bestimmung von Punktgruppen).
+3. Die chemische Bindung in Komplexen: Werner'sche Theorie, Edelgasregel, Pauling'sches Modell (VB-Theorie), Ligandenfeldtheorie für oktaedrische und tetraedrische Komplexe einschließlich einfacher MO-Betrachtungen. CO, NO+, N2, O2, PR3 und Alkene als Komplexliganden.
+4. Allgemeine Aspekte der Chemie der Übergangsmetalle: Latimer und Frost-Diagramme, Azidität, Basizität, und Amphoterie in Abhängigkeit von der Oxidationszahl.
+5. Stoffliche Aspekte der Chemie der Übergangsmetalle: Vorkommen und Gewinnung (z.B. Hochofenprozeß, van Arkel de Boer-Verfahren, Kroll-Verfahren, Mond-Verfahren), Darstellung, Eigenschaften und Verwendung ausgewählter Verbindungsklassen (z. B. Metallhalogenide, Metallchalkogenide), Magnetismus.
+Kompetenzen von Anorganische Chemie 2:
+Element 1: Die Studierenden sollten nach Beendigung des Praktikums die grundlegenden Labortechniken der Anorganischen und Analytischen Chemie beherrschen und in der Lage sein, einfache chemisch-analytische Untersuchungen selbstständig durchzuführen.
+Element 2: Grundlegende Kenntnisse über die allgemeinen Prinzipien der Chemie auf Grundlage der Nebengruppenelemente und ausgesuchter Verbindungen, grundlegendes Verständnis von Struktur-Wirkungs-Beziehungen. Erwerb grundlegender Kenntnisse über die Chemie der Nebengruppenelemente und ausgewählter Verbindungen.
+Prüfungen von Anorganische Chemie 2:
+Modulprüfung: Kolloquium
+Studienleistung (zu Element 1):
+- Bestandenes Anorganisch-Chemisches Praktikum (Antestate zu den Versuchen, testierte Praktikumsprotokolle). Alle Informationen zum Erwerb der Studienleistungen werden im Praktikumsskript bekannt gegeben.
+Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Anorganische Chemie 2: Erfolgreich abgeschlossen: INF-BSc-NF-CHE-001 „Allgemeine und Anorganische Chemie 1“
+Modultyp und Verwendbarkeit des Moduls Anorganische Chemie 2: Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Chemie im Einzelfall
+Modulbeauftragte/r von Anorganische Chemie 2: Prof. Dr. Klaus Jurkschat
+Zuständige Fakultät von Anorganische Chemie 2: Fakultät Chemie
+
+
+Modul Name: Organische Chemie für Nebenfach-Studierende
+BSc-Studiengänge: Informatik
+Turnus: jährlich im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 5
+Aufwand: 150 (60/90)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Organische Chemie für Nebenfach-Studierende:
+- Elektronenstruktur von Kohlenstoffverbindungen, Dipolmoment, Darstellung organischer Moleküle, Keilstrichformeln, Skelettformel, Oktettregel, VSEPR-Modell, Hybridisierung, C-C-Einfach-, Doppel- und Dreifachbindung, Klassifizierung, Alkane, Nomenklatur substituierter Alkane, Isomerie, Newman-Projektion, Konformationen von Ethan, Cycloalkane, Spannungsenergie Cyclohexan, Zeichnen eines Sessels, Enantiomere, Diastereomere, Mesomerie, radikalische Substitution, Reaktionsmechanismus, Stabilität von Radikalen, Hyperkonjugation, thermodynamische vs. kinetische Kontrolle, Bell-Evans-Polany-Prinzip, Hammond-Prinzip, nucleophile Substitution (SN1, SN2, Energieprofil), Nucleophil, Nucleophilie und Basizität, Abgangsgruppe, Stabilität von Carbokationen, Eliminierung (E1, E2-, E1cb-Mechanimus), Saytzef-Regel, Hofmann-Produkt, elektrophile Addition, cis- und trans-Addition, Addition von Halogenen, Halonium-Ion, Markovnikov-Regel, Hydroborierung, Aromaten, Aromatizität, Nitrierung, Sulfonierung, Zweitsubstitution, sterische Effekte, induktiver Effekt, mesomerer Effekt, aktivierende und desaktivierende Gruppen, Carbonyle, Bindungsverhältnisse, Oxidation von Alkoholen mit Chromsäure, Aldehyde, Ketone, Acetalisierung, Lactole, pKS-Werte, Ester, säurekatalysierte Veresterung, basische Esterhydrolyse, Wittig-Reaktion, Cyanhydrine, Keto-Enol-Gleichgewichte, Aldolkondensation.
+Kompetenzen von Organische Chemie für Nebenfach-Studierende:
+- Die Studierenden sollen grundlegende Kenntnisse über die Struktur organischer Moleküle erwerben. Neben der fachsprachlich korrekten Benennung von Molekülen soll eine Einordnung von Molekülen in unterschiedliche Verbindungsklassen erlernt werden. Die Studierenden sollen erkennen, dass ein organisches Molekül kein starrer Körper ist sondern verschiedene „Konformationen“ annehmen kann, die sich in ihrem Energiegehalt unterscheiden. Es soll erlernt werden verschiedene Verbindungen bezüglich ihrer Stabilität zu vergleichen. Die Studierenden sollen den Verlauf chemischer Reaktionen in Form eines Reaktionsmechanismus bzw. Energiediagramm diskutieren können. Es sollen grundlegende Reaktionstypen erlernt werden.
+Prüfungen von Organische Chemie für Nebenfach-Studierende:
+- Modulprüfung: Klausur
+- Studienleistungen: –keine–
+Teilnahmevoraussetzungen von Organische Chemie für Nebenfach-Studierende: Erfolgreich abgeschlossen: –keine–
+Vorausgesetzte Kenntnisse: Module Allgemeine und Anorganische Chemie 1 und Anorganische Chemie 2
+Modultyp und Verwendbarkeit des Moduls Organische Chemie für Nebenfach-Studierende: Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Chemie im Einzelfall
+Modulbeauftragte/r von Organische Chemie für Nebenfach-Studierende: Christmann, Hiersemann, Krause, Weberskirch
+Zuständige Fakultät von Organische Chemie für Nebenfach-Studierende: Fakultät Chemie
+
+
+Modul Name: Praktikum Organische Chemie für Nebenfach-Studierende
+BSc-Studiengänge: Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 5. Semester
+Credits: 3
+Aufwand: 180 (60/120)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Praktikum Organische Chemie für Nebenfach-Studierende:
+- Grundlagen der präparativen Organischen Chemie: Synthese und Charakterisierung organischer Verbindungen.
+Kompetenzen von Praktikum Organische Chemie für Nebenfach-Studierende:
+- Einführung organisch-präparativer Arbeitstechniken
+- Einführung in organisch-chemische Synthesemethoden
+- Einführung in chemische und spektroskopische Charakterisierungsmethoden
+- Relevante Vorschriften der Gefahrstoffverordnung
+Prüfungen von Praktikum Organische Chemie für Nebenfach-Studierende:
+- Modulprüfung: Kolloquium
+- Studienleistung: Erfolgreicher Abschluss des Praktikums (Leistungen: bestandene Antestate zu den jeweiligen Versuchen, testierte Versuchsprotokolle). Alle Informationen zum Erwerb der Studienleistung werden im Praktikumsskript bekannt gegeben. Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Praktikum Organische Chemie für Nebenfach-Studierende: Erfolgreich abgeschlossen: INF-BSc-NF-CHE-003 „Organische Chemie für Nebenfach-Studierende“
+Modultyp und Verwendbarkeit des Moduls Praktikum Organische Chemie für Nebenfach-Studierende: Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Chemie im Einzelfall
+Modulbeauftragte/r von Praktikum Organische Chemie für Nebenfach-Studierende: Christmann, Hiersemann, Krause, Weberskirch
+Zuständige Fakultät von Praktikum Organische Chemie für Nebenfach-Studierende: Fakultät Chemie
+
+
+Modul Name: Grundlagen der Elektrotechnik1
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 3. Semester
+Credits: 9
+Aufwand: 270 (100/170)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Grundlagen der Elektrotechnik1:
+- Lehrinhalte der Elemente 1 und 2
+1. Elektrostatisches Feld
+2. Stromleitungsmechanismen, stationäres elektrisches Strömungsfeld
+3. Stationäres Magnetfeld, zeitlich veränderliche elektromagnetische Felder (Induktion)
+4. Maxwell’sche Gleichungen
+5. Netzwerkberechnung
+6. Wechselspannung und Wechselstrom, Einführung in die Vierpoltheorie
+7. Schwingkreise
+Lehrinhalte von Element 3
+Vgl. Elemente 1 und 2. Im wissenschaftlichen Diskurs werden in kleinen Arbeitsgruppen Lösungsansätze
+erarbeitet. Darüber hinaus wird in die selbständige ingenieurwissenschaftliche Arbeitsweise eingeführt.
+Lehrinhalte von Element 4
+Gleich- und Wechselstromschaltungen
+Kompetenzen von Grundlagen der Elektrotechnik1:
+- Nach dem erfolgreichen Abschluss des Moduls besitzen die Studierenden das Grundlagenwissen über
+elektrische und magnetische Felder sowie lineare passive Gleichstrom- und Wechselstromschaltungen. Sie
+sind befähigt elektrotechnische Systemzusammenhänge zu erkennen sowie grundlegende Methoden zur
+Lösung elektrotechnischer Fragestellungen und die entsprechenden mathematischen Werkzeuge
+anzuwenden. Sie sind in der Lage, fortgeschrittene Veranstaltungen der Elektrotechnik und
+Informationstechnik verfolgen zu können.
+Prüfungen von Grundlagen der Elektrotechnik1:
+- Modulprüfung: Klausur (180 Minuten) 
+- Studienleistungen:
+  (1) Erfolgreiche Bearbeitung von zwei der vier Pflichtübungen in Element 2 BOSS-Nr.: 70141
+  (2) Erfolgreiche Bearbeitung der Praktikumsversuche in Element 3 BOSS-Nr.: -keine- Die Studienleistungen (1) und (2) sind Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Grundlagen der Elektrotechnik1: Erfolgreich bestanden: –keine–
+Wünschenswerte Kenntnisse: Kenntnisse der Lehrinhalte des Vorkurses Mathematik, speziell Integral-, Differential-, Vektorrechnung und komplexe Zahlen
+Modultyp und Verwendbarkeit des Moduls Grundlagen der Elektrotechnik1: Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Elektrotechnik
+Modulbeauftragte/r von Grundlagen der Elektrotechnik1: Prof. Dr.-Ing. F. Jenau
+Zuständige Fakultät von Grundlagen der Elektrotechnik1: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Signale und Systeme
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 9
+Aufwand: 270 (100/170)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Signale und Systeme:
+- Lehrinhalte der Elemente 1 – 3
+1. Bedeutung von LTI-Systemen (linear, time-invariant): Einführung in die Thematik
+2. Beschreibung von LTI-Systemen: Lineare gewöhnliche Differentialgleichungen,
+Zustandsraumdarstellung, Strukturdiagramme, elektrische Schaltungen
+3. Berechnung von LTI-Systemen: Exponentialansatz, Faltung, Übergangsmatrix, Fourier-Transformation,
+Laplace-Transformation, numerische Verfahren
+4. Diskrete Signale und Systeme, Z-Transformation
+Lehrinhalte der Elemente 5 und 6
+Analoge und digitale Schaltungen (lineare und nichtlineare Operationsverstärkerschaltungen, A/D- D/AWandler, Schaltnetze und Schaltwerke, anwenderprogrammierbare Schaltungen)
+Lehrinhalt der Elemente 4 und 7
+Integraler Bestandteil des Moduls ist die Durchführung von zwei Praktikumsversuchen, „Passive
+Filterschaltungen“ und „Programmierung logischer Schaltungen“, mit denen die Inhalte der Elemente 1
+und 5 praktisch vertieft werden.
+Kompetenzen von Signale und Systeme:
+-  Nach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage,
+kontinuierliche Signale und Systeme im Zeit- bzw. im Frequenzbereich zu analysieren und grundlegende
+Verfahren der Systemtheorie (z. B. Faltung, Spektralanalyse, Stabilitätsanalyse) einzusetzen. Die
+Studierenden sind schließlich in der Lage, logische Schaltungen wie Schaltnetze, arithmetisch-logische
+Bausteine, Schaltwerke und programmierbare Schaltungen zu verstehen und elementare digitale
+Schaltungen zu entwerfen. 
+Prüfungen von Signale und Systeme:
+- Modulprüfung: Klausur (180 Minuten) BOSS-Nr.: 70291
+- Studienleistungen:
+  (1) Erfolgreiche Bearbeitung von zwei der vier Pflichtübungen in Element 2 
+  (2) Erfolgreiche Bearbeitung der Praktikumsversuche in Element 3 - Die Studienleistungen (1) und (2) sind Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Signale und Systeme: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Höhere Mathematik, Grundlagen der Elektrotechnik, Einführung in die Programmierung
+Modultyp und Verwendbarkeit des Moduls Signale und Systeme: Wahlpflichtmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik
+Modulbeauftragte/r von Signale und Systeme: Prof. Dr.-Ing. Stephan Frei, Prof. Dr.-Ing. Hartmut Schröder
+Zuständige Fakultät von Signale und Systeme: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Einführung in die Energietechnik für Informatiker
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 9
+Aufwand: 270 (90/180)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Einführung in die Energietechnik für Informatiker:
+- Lehrinhalte der Element 1 und 2
+1. Sicherheit bei Arbeiten mit elektrischen Anlagen
+2. Drehstromsysteme
+3. Grundlagen von Transformatoren
+4. Grundlagen Asynchronmaschinen
+5. Grundlagen Synchronmaschinen
+6. Leitungen zur Übertragung elektrischer Energie
+7. Berechnung von Drehstromschaltungen und deren Komponenten
+8. Grundlagen der Thermodynamik, Kraftwerkstechnik und erneuerbare Energien
+9. Leistungsflussrechnung elektrischer Energienetze
+10. Grundlagen der Leistungselektronik
+11. Berechnung von Kurzschlussströmen und Kurzschlussleistung
+12. Berechnung unsymmetrischer Drehstromsysteme
+13. Grundlagen der Planung elektrischer Energieübertragungsnetze
+Lehrinhalte von Element 3
+Vgl. Element 1. Im wissenschaftlichen Diskurs werden in kleinen Arbeitsgruppen Lösungsansätze
+erarbeitet. Darüber hinaus wird in die selbständige ingenieurwissenschaftliche Arbeitsweise eingeführt.
+Lehrinhalte von Element 4
+Integraler Bestandteil des Moduls ist die Durchführung von Praktikumsversuchen zu den Lehrinhalten.
+Kompetenzen von Einführung in die Energietechnik für Informatiker:
+- Nach erfolgreichem Abschluss des Moduls kennen die Studierenden die technischen und mathematischen
+Grundlagen von Drehstromsystemen als Basis von Energiesystemen zur Erzeugung, Übertragung und Verteilung elektrischer Energie und deren Zusammenwirken. Sie besitzen ein physikalisches und
+mathematisches Verständnis für grundlegende elektrotechnische Betriebsmittel wie elektrische
+Maschinen, Transformatoren und Leitungen.
+Darüber hinaus kennen die Studierenden allgemeingültige Grundlagen der Thermodynamik sowie deren
+Anwendung in der effizienten elektrischen Energieerzeugung und Energienutzung. Ferner werden
+grundlegende Strukturen und Berechnungsverfahren für elektrische Energienetze im Normalbetrieb und
+Fehlerfall sowie bei Unsymmetrien zur Planung elektrischer Netze vermittelt. Des Weiteren kennen sie
+Grundlagen der Leistungselektronik für modernste Betriebsmittel energietechnischer Systeme.
+Prüfungen von Einführung in die Energietechnik für Informatiker:
+- Modulprüfung: Klausur (180 Minuten) 
+- Studienleistungen: -keine-
+Teilnahmevoraussetzungen von Einführung in die Energietechnik für Informatiker: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Grundlagen Elektrotechnik, Höhere Mathematik I
+Modultyp und Verwendbarkeit des Moduls Einführung in die Energietechnik für Informatiker: Wahlpflichtmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik
+Modulbeauftragte/r von Einführung in die Energietechnik für Informatiker: Prof. Dr.-Ing. Chr. Rehtanz
+Zuständige Fakultät von Einführung in die Energietechnik für Informatiker: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Digitale Signalverarbeitung
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 5. Semester
+Credits: 9
+Aufwand: 270 (100/170)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Digitale Signalverarbeitung:
+- Lehrinhalte von Element 1
+Einführung in die Grundlagen diskret abgetasteter Signale, diskrete Transformationen (z-Transformation,
+diskrete Fourier Transformation, DFT), Fast Fourier Transformation (FFT), lineare digitale Filter,
+nichtlineare digitale Filter, Rauschen
+Lehrinhalte von Element 2
+Die vertiefenden Rechenübungen werden teilweise als praktische Computer-Übungen auf Basis von
+MATLAB durchgeführt.
+Kompetenzen von Digitale Signalverarbeitung:
+- Nach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage, Algorithmen der digitalen
+Signalverarbeitung zu verstehen und anzuwenden. Insbesondere können grundlegende Verfahren wie
+Filterentwurf, die verschiedenen Transformationen etc. in Anwendungen der Audio- und
+Bildsignalverarbeitung eingesetzt werden. Ebenso werden typische Architekturen und Schaltungsbausteine
+zur Signalverarbeitung verstanden und anwendungsgerecht ausgewählt.
+Prüfungen von Digitale Signalverarbeitung:
+- Modulprüfung: Klausur (180 Minuten) oder mündliche Prüfung (max. 40 Minuten) 
+- Studienleistungen: –keine–
+Teilnahmevoraussetzungen von Digitale Signalverarbeitung: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Signale und Systeme
+Modultyp und Verwendbarkeit des Moduls Digitale Signalverarbeitung: Wahlmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik, Katalog „Signalverarbeitung“
+Modulbeauftragte/r von Digitale Signalverarbeitung: Prof. Dr. Chr. Wöhler
+Zuständige Fakultät von Digitale Signalverarbeitung: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Grundlagen der Mechatronik 
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4./6. Semester
+Credits: 9
+Aufwand: 270 (90/180)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Grundlagen der Mechatronik:
+- Lehrinhalte der Elemente 1 und 2
+1. Statik, Kräfte und Kraftsysteme
+2. Haftung und Reibung
+3. Kinematik mobiler Roboter und robotischer Arme
+4. Kinetik
+5. Bewegung eines starren Körpers
+6. Prinzipien der Mechanik
+Lehrinhalte der Elemente 3 und 4
+Lehrinhalte der Elemente 3 und 4
+1. Einführung Mechatronik, Modellbildung und Entwicklungsmethodik mechatronischer Systeme
+2. Komponenten mechatronischer Systeme (Aktoren, Sensoren, Informationsverarbeitung)
+Lehrinhalte Element 5
+1. Steuerung von LEGO Spike Robotern mit Matlab
+2. Versuche Linienfolge und reaktive Hindernisvermeidung
+Kompetenzen von Grundlagen der Mechatronik:
+- Nach erfolgreichem Abschluss des Moduls beherrschen die Studierenden die Grundlagen der Mechanik
+und der Mechatronik mit einer Fokussierung auf die Robotik und erkennen deren Bedeutung im Kontext
+der Elektrotechnik und Informationstechnik. Die Studierenden sind in der Lage, praktische
+Aufgabenstellungen in der Mechatronik einzuordnen und selbständig elektrische und mechanische
+Zustandsgrößen eines mechatronischen Systems der Analyse und Synthese zugänglich zu machen und
+einfache Regler für mobile Roboter zu entwerfen und zu implementieren. 
+Prüfungen von Grundlagen der Mechatronik:
+- Modulprüfung: Klausur (180 Minuten) oder mündliche Prüfung (max. 40 Minuten) 
+- Studienleistung:
+  (1) erfolgreiche Bearbeitung von mindestens einer der zwei schriftlichen Übungen in Element 2 
+  (2) erfolgreiche Bearbeitung von mindestens einer der zwei schriftlichen Übungen in Element 4 
+  (3) Erfolgreiche Teilnahme an zwei praktischen Übungen in Element 4 BOSS-Nr.: -keine- Die Studienleistungen sind Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Grundlagen der Mechatronik: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Grundlagen der Elektrotechnik
+Modultyp und Verwendbarkeit des Moduls Grundlagen der Mechatronik: Wahlmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik, Kataloge „Signalverarbeitung“ und „Energietechnik“
+Modulbeauftragte/r von Grundlagen der Mechatronik: apl. Prof. Dr. Frank Hoffmann, Dr.-Ing. Christian Kreischer
+Zuständige Fakultät von Grundlagen der Mechatronik: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Halbleiterbauelemente für Informatiker
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 5. Semester
+Credits: 9
+Aufwand: 270 (90/180)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Halbleiterbauelemente für Informatiker:
+- Lehrinhalte von Element 1 bis 2
+1. Ladungsträger, Bändermodell, Zustandsdichte, Ferminiveau
+2. Ströme im Halbleiter (Diffusion- und Driftströme), Generation und Rekombination,
+Kontinuitätsgleichung
+3. Dioden und Bipolare Bauelemente, Early-Effekt, Temperaturverhalten, Ebers-Moll-Modell
+4. MOS-Kondensator, Feldeffektransistor, Gradual Channel Approximation
+5. Kurzkanaleffekte, Rausch- und thermisches Verhalten
+Lehrinhalte von Element 3 bis 5
+1. Schaltungsanalyse im Groß- und Kleinsignalbereich
+2. analoge Grundschaltungen und elementare Schaltungsfunktionen
+3. Operationsverstärker, Rückkopplung und Operationsverstärkerschaltungen
+4. Grundlagen der Digitaltechnik und CMOS-Logikschaltungen
+Lehrinhalte von Element 6 und 7
+1. Ursprung, Aufbau und Struktur der Materie und Festkörper
+2. Grundzüge der Quantenphysik, Quantenzahlen, Atommodell
+3. Kristallstrukturen, Defekte, Metalle, Halbleiter
+4. Dielektrika, Polarisationsmechanismen, Magnetika, Atomare magnetische Momente
+5. Supraleitung, Ginsburg-Landau-Theorie, BCS-Theorie, Hochtemperatur-Supraleitung
+6. Passive Bauelemente, Aufbautechnik und Zuverlässigkeit
+Kompetenzen von Halbleiterbauelemente für Informatiker:
+- Nach erfolgreichem Abschluss des Moduls verstehen die Studierenden die grundlegenden Werkstoffe der
+Elektrotechnik. Sie kennen Aufbau und Wirkungsweise der wichtigsten Halbleiterbauelemente. Weiterhin
+können sie einfache lineare Transistorschaltungen analysieren und dimensionieren sowie Aufbau und
+Wirkungsweise von Operationsverstärkern und einfachen Logikgattern verstehen. Ferner sind ihnen
+passive Bauelemente und typische Aufbautechniken ebenso wie zentrale Aspekte der Zuverlässigkeit
+vertraut. 
+Prüfungen von Halbleiterbauelemente für Informatiker:
+- Modulprüfung: Klausur (180 Minuten) 
+- Studienleistung: Erfolgreiche Bearbeitung von jeweils zwei der vier Pflichtübungen in Element 2 BOSS-Nr.: 70341. Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Halbleiterbauelemente für Informatiker: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Grundlagen der Elektrotechnik, Höhere Mathematik, Physik
+Modultyp und Verwendbarkeit des Moduls Halbleiterbauelemente für Informatiker: Wahlmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik, Katalog „Signalverarbeitung“
+Modulbeauftragte/r von Halbleiterbauelemente für Informatiker: Prof. Dr.-Ing. H. Fiedler
+Zuständige Fakultät von Halbleiterbauelemente für Informatiker: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Nachrichtentechnik
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 5. Semester
+Credits: 9
+Aufwand: 270 (100/170)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Nachrichtentechnik:
+- Lehrinhalte der Elemente 1 und 2
+1. Grundzüge von Kommunikationssystemen
+2. Diskrete Systeme und Signale, Abtastung, z-Transformation
+3. Stochastische Signale: Zufallsvariablen, Prozesse, Leistungsdichte
+4. Rauschen: Rauschursachen, mathematische Beschreibung von Rauschphänomenen
+5. Übertragungskanäle
+6. Analoge Modulation: Übertragung mit AM und FM, Rauschverhalten, Systembeispiele
+7. Digitale Basisbandübertragung: Impulsformung, Leistungsdichte, Systembeispiele
+8. Digitale Modulation: Prinzipien, Systembeispiele
+Lehrinhalt von Element 3
+Zwei Praktikumsversuche zu den Themenbereichen „Abtastung und Diskrete Signale“ sowie „Modulation“,
+die die Inhalte der Elemente 1 und 2 durch praktische Übung vertiefen.
+Kompetenzen von Nachrichtentechnik:
+- Nach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage, Systeme zur Verarbeitung
+und Übertragung kontinuierlicher und diskreter Signale zu verstehen und mathematisch zu beschreiben,
+die Leistungsfähigkeit verbreiteter Systeme der Nachrichtentechnik zu analysieren und Lösungsansätze für
+neuartige nachrichtentechnische Fragestellungen zu entwickeln. Ferner verfügen sie über ausreichende
+Grundlagenkenntnisse, um fortgeschrittene Veranstaltungen des Themenbereichs Nachrichtentechnik
+verfolgen zu können. 
+Prüfungen von Nachrichtentechnik:
+- Modulprüfung: Klausur (180 Minuten)
+- Studienleistungen von Nachrichtentechnik 1:
+  (1) Erfolgreiche Bearbeitung von zwei der vier Pflichtübungen in Element 2 
+  (2) Erfolgreiche Bearbeitung der Praktikumsversuche in Element 3 - Die Studienleistungen sind Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Nachrichtentechnik: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Grundlagen der Elektrotechnik, Grundlagen der Theorie linearer Systeme (Faltung, Beschreibung und Analyse mittels Fourier- und Laplace-Transformation)
+Modultyp und Verwendbarkeit des Moduls Nachrichtentechnik: Wahlmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik, Katalog „Signalverarbeitung“
+Modulbeauftragte/r von Nachrichtentechnik: Prof. Dr.-Ing. R. Kays
+Zuständige Fakultät von Nachrichtentechnik: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Steuerungs- und Regelungstechnik 
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 5. Semester
+Credits: 9
+Aufwand: 270 (100/170)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Steuerungs- und Regelungstechnik:
+- Lehrinhalte der Elemente 1 und 2
+1. Grundbegriffe und Grundprinzipien der Steuerungs- und Regelungstechnik
+2. Modellbildung
+3. Standardregler
+4. Ortskurven und Bode-Diagramme
+5. Frequenzkennlinienverfahren
+6. Stabilitätsanalyse
+7. Wurzelortskurvenverfahren
+8. Zustandsregler und Beobachter
+9. Zeitdiskrete lineare Übertragungssysteme
+10. Diskrete Regelung
+11. Ausblick fortgeschrittene Regelungstechnik
+Lehrinhalte von Element 3
+Praktikumsversuche zu Systemidentifikation, Modellbildung und Reglerentwurfsverfahren
+Kompetenzen von Steuerungs- und Regelungstechnik:
+- Nach erfolgreichem Abschluss des Moduls beherrschen die Studierenden die grundlegenden Begriffe und
+theoretischen sowie mathematischen Grundkenntnisse zur Modellierung, Analyse und Synthese von
+offenen und geschlossenen Regelkreisen. Die Studierenden können ihnen unbekannte
+regelungstechnische Probleme richtig klassifizieren und selbständig mit eigenständig ausgewählten
+Methoden lösen.
+Prüfungen von Steuerungs- und Regelungstechnik:
+- Modulprüfung: Klausur (180 Minuten) 
+- Studienleistungen:
+  (1) erfolgreiche Bearbeitung von 50% der Punkte aller vier Pflichtübungen in Summe in Element 2 
+  Erfolgreiche Bearbeitung der Praktikumsversuche in Element 3 - Die Studienleistungen sind Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Steuerungs- und Regelungstechnik: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Höhere Mathematik und Grundkenntnisse der Systemtheorie
+Modultyp und Verwendbarkeit des Moduls Steuerungs- und Regelungstechnik: Wahlmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik, Katalog „Signalverarbeitung“
+Modulbeauftragte/r von Steuerungs- und Regelungstechnik: Prof. Dr.-Ing. Prof. h.c. Dr. h.c. T. Bertram
+Zuständige Fakultät von Steuerungs- und Regelungstechnik: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4./6. Semester
+Credits: 9
+Aufwand: 270 (105/165)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik:
+- Lehrinhalte der Elemente 1 und 2
+1. Maxwell’sche Gleichungen in integraler und in differenzieller Form
+2. Potentiale im EM-Feld, Poyntingvektor und Energiesatz
+3. Materialeinfluss auf Größen des elektrischen und magnetischen Feldes
+Lehrinhalte der Elemente 4 und 5
+1. Elektromagnetische Wellen auf Leitungen
+2. Antennen und Strahlungsfelder
+3. HF-Bauteile und –Schaltungen
+Lehrinhalte der Elemente 3 und 6
+Vgl. Elemente 1 und 2 sowie Elemente 4 und 5. Im wissenschaftlichen Diskurs werden in kleinen
+Arbeitsgruppen Lösungsansätze erarbeitet und das Verständnis vertieft. Darüber hinaus wird in die
+selbständige ingenieurwissenschaftliche Arbeitsweise eingeführt.
+Lehrinhalte von Element 7
+Praktikumsversuche zu stationären Magnetfeldern (1 Versuch) , Wellen auf Leitungen (2 Versuche)
+Kompetenzen von Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik:
+- Nach erfolgreichem Abschluss verstehen die Studierenden die grundlegenden Konzepte
+elektromagnetischer Felder und sind in der Lage, Probleme der theoretischen Elektrotechnik selbstständig
+zu formulieren und unter Anwendung mathematischer Methoden zu lösen. Des Weiteren verfügen die
+Studierenden über Grundlagenwissen der Hochfrequenztechnik. Sie kennen die Grundzüge der
+leitungsgebundenen Wellenausbreitung und der im freien Raum, besitzen einen Überblick über die in der
+Hochfrequenztechnik eingesetzten Bauteile und Schaltungen und haben Anwendungsbeispiele
+kennengelernt.
+Prüfungen von Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik:
+- Modulprüfung: Klausur (180 Minuten)
+- Studienleistungen:
+  (1) Erfolgreiche Bearbeitung von einer der zwei Pflichtübungen in Element 2 sowie einer der zwei Pflichtübungen in Element 4 BOSS-Nr.: -keine-
+  (2) Erfolgreiche Bearbeitung der Praktikumsversuche in Element 5 BOSS-Nr.: -keine- Die Studienleistungen sind Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Höhere Mathematik, Physik
+Modultyp und Verwendbarkeit des Moduls Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik: Wahlmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik, Katalog „Signalverarbeitung“
+Modulbeauftragte/r von Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik: Prof. Dr.-Ing. P. Krummrich, Dr.-Ing. Chr. Kreischer
+Zuständige Fakultät von Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Theoretische Grundlagen der Informationstechnik für ETIT
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4./6. Semester
+Credits: 9
+Aufwand: 270 (100/170)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Theoretische Grundlagen der Informationstechnik für ETIT:
+- Lehrinhalte der Elemente 1 und 2
+1. Algebraische Modelle: Signale und Signalräume
+2. Lineare Transformationen: digitale Filter, diskrete Faltung
+3. Detektion und Schätzung: Datendetektion, Frequenz- und Kanalschätzung, Prädiktion
+4. Prinzipielle Komponenten Analyse: Parameterschätzung, Systemidentifikation
+5. Statistische Signalverarbeitung und maschinelles Lernen
+6. Grundlagen der Informationstheorie
+7. Codierung: Hamming-, BCH-, RS-Codes, Faltungscodes
+Lehrinhalte von Element 3
+Praktikumsversuch zur Digitalen Filterung mit Signalprozessor, der die Lehrinhalte der Elemente 1 und 3
+durch praktische Übung vertieft.
+Kompetenzen von Theoretische Grundlagen der Informationstechnik für ETIT:
+- Die Studierenden sollen die algebraische und statistische Beschreibung von zeitdiskreten Signalen und Systemen verstehen und entsprechende einfache zeitdiskrete Modelle angeben können. Sie sollen
+verschiedene grundlegende Methoden der Informationstechnik, der Signalverarbeitung und des
+maschinellen Lernens einordnen und verstehen können. Grundlagenkenntnisse über algebraische
+Codierung sollen erworben werden. Ferner sollen sie die Zusammenhänge der verschiedenen Methoden
+erkennen können.
+Prüfungen von Theoretische Grundlagen der Informationstechnik für ETIT:
+- Modulprüfung: Klausur (180 Minuten) oder mündliche Prüfung (max. 40 Minuten) 
+- Studienleistungen: Erfolgreiche Bearbeitung der Praktikumsversuche in Element 3 - Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Theoretische Grundlagen der Informationstechnik für ETIT: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Höhere Mathematik, Grundlagen der Elektrotechnik, Datenstrukturen und Algorithmen, Technische Informatik
+Modultyp und Verwendbarkeit des Moduls Theoretische Grundlagen der Informationstechnik für ETIT: Wahlmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik, Katalog „Signalverarbeitung“
+Modulbeauftragte/r von Theoretische Grundlagen der Informationstechnik für ETIT: Prof. Dr.-Ing. J. Götze
+Zuständige Fakultät von Theoretische Grundlagen der Informationstechnik für ETIT: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Messtechnik und EMV
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 5. Semester
+Credits: 9
+Aufwand: 270 (105/165)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Messtechnik und EMV:
+- Lehrinhalte der Elemente 1 und 2
+1. Grundbegriffe der Messtechnik, Eigenschaften von Messgeräten
+2. Messbereichserweiterung
+3. Brückenschaltungen
+4. Leistungsmessung
+5. Messleitungen
+Lehrinhalte der Elemente 3 und 4
+1. Einführung in die EMV, Pegelmaße, Zeit- und Frequenzbereich
+2. Quellen und Senken
+3. Koppelarten
+4. Gegenmaßnehmen:
+5. EMV-Prüf- und Messtechnik/Normung
+Lehrinhalte von Element 5
+Messen elektrischer Größen bei verschiedenen Spannungsformen, Analyse von Kopplungen
+Kompetenzen von Messtechnik und EMV:
+- Nach erfolgreichem Abschluss des Moduls können die Studierenden die zur Lösung einer
+messtechnischen Aufgabe notwendigen Vorgehensweisen nachvollziehen und auch unter Berücksichtigung
+von Aspekten der elektromagnetischen Verträglichkeit bewerten. Sie verfügen über ein fundiertes
+Verständnis von messtechnischen Grundkomponenten bis hin zu labor- oder industriegeeigneten
+Messsystemen. Mit den erlernten Kenntnissen über Störquellen und Senken in unterschiedlichen
+Systemen werden sie in die Lage versetzt die auftretenden umgebungs
+Prüfungen von Messtechnik und EMV:
+- Modulprüfung: Klausur (180 Minuten) oder mündliche Prüfung (max. 40 Minuten) 
+- Studienleistungen: Erfolgreiche Bearbeitung des Praktikumsversuchs in Element 5 - Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Messtechnik und EMV: Erfolgreich bestanden: -keine- Wünschenswerte Kenntnisse: Grundlagen der Elektrotechnik, Physik, Signale und Systeme
+Modultyp und Verwendbarkeit des Moduls Messtechnik und EMV: Wahlmodul im Bachelorstudiengang Informatik, Nebenfach Elektrotechnik, Katalog „Signalverarbeitung“
+Modulbeauftragte/r von Messtechnik und EMV: Prof. Dr.-Ing. F. Jenau
+Zuständige Fakultät von Messtechnik und EMV: Fakultät für Elektrotechnik und Informationstechnik
+
+
+Modul Name: Einführung in die Logistik
+Englischer Modultitel: Introduction to Logistics
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 3. Semester
+Credits: 5
+Aufwand: 150
+Modultyp und Verwendbarkeit des Moduls Einführung in die Logistik: Pflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Logistik
+Zuständige Fakultät von Einführung in die Logistik: Maschinenbau
+Lehrinhalte von Einführung in die Logistik: Dieses Modul zeigt verschiedene Arbeits- und Aufgabenbereiche der Logistik auf. Die Veranstaltung
+wird von allen Logistiklehrstühlen der Fakultät Maschinenbau gemeinsam gestaltet. Dabei wird ein
+Überblick über die Systeme, die Aufgaben und die Methoden der Logistik gegeben. Dazu werden aus
+den Bereichen „Intralogistik“ (Lehrstuhl FLW), „Produktionslogistik“ (LFO), „Distributionslogistik“ (ITL)
+und „IT in der Logistik“ (ITPL) die typischen Logistikstrukturen, die Problemfelder und das
+Tagesgeschäft vorgestellt. Hierzu sollen Unternehmen und die dort installierten Logistiksysteme als
+Anschauungsbeispiel genommen werden oder anhand von geeigneten Präsentationen vorgestellt
+werden.
+Kompetenzen von Einführung in die Logistik: Nach Abschluss der Veranstaltung sind die Studierenden in der Lage, den Systemgedanken in der
+Logistik und die Vernetzung von Anlagen, Informationen und Materialflüssen nachzuvollziehen. Sie
+verstehen Logistik als Querschnittsfunktion über unterschiedliche Unternehmens- und
+Wirtschaftsbereiche und weisen die hohe Vernetzung der in den folgenden Logistikmodulen
+behandelten Geräte, Anlagen, Methoden und Instrumente nach. Die Studierenden werden in die Lage
+versetzt, verschiedene Logistiksysteme und ihre Komponenten zu identifizieren, zu analysieren und
+hinsichtlich ihrer Einsatzmöglichkeiten zu bewerten. Sie können die Systembestandteile differenzieren
+und ansatzweise Stärken und Schwächen in Realsystemen erkennen.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Einführung in die Logistik (2V+1Ü,4 LP)
+Modulprüfung von Einführung in die Logistik:
+- Klausur (maximal 120 Minuten) BOSS-NR. 9219
+
+
+Modul Name: Grundlagen der Unternehmenslogistik und des Supply Chain Managements
+Englischer Modultitel: Fundamentals of Business Logistics and Supply Chain Management
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–6. Semester
+Credits: 5
+Aufwand: 150
+Modultyp und Verwendbarkeit des Moduls Grundlagen der Unternehmenslogistik und des Supply Chain Managements: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Logistik
+Zuständige Fakultät von Grundlagen der Unternehmenslogistik und des Supply Chain Managements: Maschinenbau
+Lehrinhalte von Grundlagen der Unternehmenslogistik und des Supply Chain Managements: Die Veranstaltung zielt darauf ab, den Studierenden ein grundlegendes Verständnis der Unternehmenslogistik und des Supply Chain Managements zu vermitteln. Dabei liegt der Fokus auf der Unternehmensführung in Wertschöpfungsnetzwerken, der Abgrenzung der funktionalen Bereiche der Logistik und der Einführung in wichtige Aspekte des Supply Chain Managements wie Risikomanagement und Instandhaltungsmanagement. Zusätzlich werden aktuelle Methoden, Entwicklungen und Technologien behandelt, um die Kompetenzentwicklung und die Rolle des Menschen in der Unternehmenslogistik zu betonen. Innovative Lehrmethoden, einschließlich des Flipped Classroom-Ansatzes, ermöglichen es den Studierenden, ihren Lernprozess aktiv zu gestalten und die Inhalte anhand von Fallstudien und Anwendungsbeispielen praktisch zu vertiefen. Das Ziel ist es, den Studierenden Kompetenzen für das Management von Wertschöpfungsnetzwerken zu vermitteln und sie auf aktuelle praxisinduzierte Probleme vorzubereiten.
+Kompetenzen von Grundlagen der Unternehmenslogistik und des Supply Chain Managements: Die Studierenden sind nach erfolgreichem Abschluss des Moduls in der Lage Organisationen und
+Prozesse im Supply Chain Management und deren Zusammenhänge zu verstehen, sowie diese zu
+beurteilen und zu optimieren. Dazu sind die Studierenden nach erfolgreichem Abschluss der
+Veranstaltung in der Lage die verschiedenen Themenfelder im Supply Chain Management methodisch
+zu analysieren, zu beschreiben und Lösungsansätze zu entwickeln. Die Studierenden können
+unterschiedliche Perspektiven diskutieren und ihre eigenen Ansichten artikulieren. Sie sind in der Lage
+sich selbstständig Wissen anzueignen, fachliche Fragestellungen in Teams zu bearbeiten sowie die
+Ergebnisse darzustellen und einem heterogenen Publikum über verschiedene Medienformen (z.B.
+Vortrag, Präsentation, Poster) zu kommunizieren.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Grundlagen der Unternehmenslogistik und des Supply Chain Managements (2V+2Ü, 5 LP)
+Modulprüfung von Grundlagen der Unternehmenslogistik und des Supply Chain Managements:
+- Klausur (90 Minuten)
+Studienleistung als Voraussetzung für die Modulprüfung:
+- Die Details werden durch die jeweilige Dozentin / den jeweiligen Dozenten zu Beginn der Veranstaltung bekannt gemacht.
+
+
+Modul Name: Materialflusssysteme I
+Englischer Modultitel: Material Flow Systems I
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 3.–6. Semester
+Credits: 5
+Aufwand: 150
+Modultyp und Verwendbarkeit des Moduls Materialflusssysteme I: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Logistik
+Zuständige Fakultät von Materialflusssysteme I: Maschinenbau
+Lehrinhalte von Materialflusssysteme I: Dieses Modul schult das analytische und strukturierte Arbeiten und fordert von den Studierenden ein
+vernetztes fachübergreifendes Denken. Die Studierenden können sich in neue Problemstellungen
+einarbeiten und vorhandenes Wissen eines Fachbereiches auf andere Bereiche des Materialflusses
+übertragen.
+Die Veranstaltung Materialflusssysteme I behandelt die zur innerbetrieblichen Logistik benötigten
+Geräte und Anlagen der Materialflusstechnik. Die Studierenden lernen die systematische
+Klassifizierung von Geräten, ihren Aufbau und ihre wesentlichen Eigenschaften sowie deren
+Einsatzkriterien kennen. Die Veranstaltung beinhaltet darüber hinaus Informationen zur Planung,
+Dimensionierung und Auslegung von komplexen innerbetrieblichen Materialflusssystemen. Dabei
+stehen das Zusammenspiel und die Abstimmung aller Bereiche im Vordergrund. Sie erfahren, welche
+Normen, Richtlinien und Gesetze zum Betrieb dieser Geräte und Anlagen von Bedeutung sind.
+Die Grundlagenkenntnisse werden in Vorlesungen vermittelt und in interaktiven Diskussionen,
+Übungen und ggf. Laborbesichtigungen vertieft.
+Kompetenzen von Materialflusssysteme I: Nach erfolgreicher Teilnahme sind die Studierenden in der Lage, in Planungen und für den Betrieb die
+richtigen Geräte auszuwählen. Sie können gerätespezifische Daten interpretieren, neuartige
+Bausteine aus allen Bereichen der Materialflusstechnik aufeinander abstimmen. In Diskussionen mit
+Fachingenieuren können sie Anforderungen an neu zu entwickelnde oder zu überarbeitende Geräte
+und Anlagen formulieren und die Arbeitsergebnisse überprüfen.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Materialflusssysteme I (2V+2Ü, 5 LP)
+Modulprüfung Materialflusssysteme I:
+- Klausur (60 Minuten)
+
+
+Modul Name: Verkehrslogistik I
+Englischer Modultitel: Traffic and Transportation Logistics I
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 3.–6. Semester
+Credits: 5
+Aufwand: 150
+Modultyp und Verwendbarkeit des Moduls Verkehrslogistik I: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Logistik
+Zuständige Fakultät von Verkehrslogistik I: Maschinenbau
+Lehrinhalte von Verkehrslogistik I: In der Vorlesung werden den Studierenden die Grundlagen im Bereich der Verkehrslogistik vermittelt:
+Neben den Verkehrsträgern (Straßen-, Schienengüterverkehr, Kombinierter Verkehr, Güterverkehr mit
+See- und Binnenschiff, Luftfracht) und ihren Charakteristika erhalten die Studierenden einen Überblick
+über die unterschiedlichen Dienstleistungen und Produkte der einzelnen Verkehrsträger und/oder
+Branchen. Die Einsatzmöglichkeiten von Informations- und Kommunikationstechnologien in der
+Steuerung von Transporten und des Verkehrs werden ebenso behandelt wie der Themenbereich „City
+Logistics“ und letzte Meile. Ein weiterer Themenblock vermittelt den Studierenden Kenntnisse über die
+Organisation verschiedener nationaler und internationaler Verkehrsmärkte sowie die Grundlagen der
+Verkehrspolitik auf europäischer, nationaler und regionaler Ebene.
+Die begleitende Übung vertieft die Inhalte der Vorlesung anhand praktischer Anwendungsbeispiele.
+Kompetenzen von Verkehrslogistik I: Nach Abschluss des Moduls sind die Studierenden in der Lage die verschiedenen Verkehrsträger der
+Verkehrslogistik sowie deren spezifischen Logistikprozesse auszuführen und zu erklären. Ferner
+können die Studierenden die Einsatzmöglichkeiten der Verkehrsträger auf praktische Fragestellungen
+übertragen und anwenden.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Verkehrslogistik I (2V+1Ü+1P, 5 LP)
+Studienleistung als Voraussetzung für die Teilnahme an der Modulprüfung:
+- Testate gemäß Ankündigung
+Modulprüfung von Verkehrslogistik I:
+- Klausur (90 Minuten)
+
+
+Modul Name: Verkehrslogistik II
+Englischer Modultitel: Traffic and Transportation Logistics II
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 3.–6. Semester
+Credits: 5
+Aufwand: 150
+Modultyp und Verwendbarkeit des Moduls Verkehrslogistik II: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Logistik
+Zuständige Fakultät von Verkehrslogistik II: Maschinenbau
+Lehrinhalte von Verkehrslogistik II: Im Modul werden den Studierenden erweiterte Grundlagen im Bereich der Verkehrslogistik vermittelt:
+Logistische Knoten mit ihren Prozessen und Gestaltungsmöglichkeiten werden diskutiert und
+Verfahren aus dem Bereich des Logistikcontrollings (z. B. Kennzahlen und Kennzahlensysteme) sowie
+des Qualitätsmanagement und ihre Anwendbarkeit auf verkehrslogistische Fragestellungen behandelt
+(z. B. bei Speditionen). Ein Schwerpunkt des Moduls liegt auf Analyse- und Planungsmethoden für
+verkehrslogistische Fragestellungen. Für die Bereiche der Standortplanung, der Netzplanung und
+sowie der Touren- und Routenplanung werden mathematische Modelle zur Beschreibung der
+Standardprobleme und zugehörige Lösungsverfahren vorgestellt und auf logistische Fragestellungen
+angewandt.
+Kompetenzen von Verkehrslogistik II: Nach erfolgreicher Teilnahme können die Studierenden die erworbenen Kenntnisse zu den
+Einsatzmöglichkeiten verschiedener Verkehrsträger für unterschiedliche Fragestellungen wie
+Standortplanung sowie Touren- und Routenplanung beurteilen. Darüber hinaus sind die Studierenden
+in der Lage, mathematische Algorithmen auf verkehrslogistische Fragestellungen anzuwenden
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Verkehrslogistik II (2V+1Ü+1P, 5 LP)
+Studienleistung als Voraussetzung für die Teilnahme an der Modulprüfung:
+- Testate gemäß Ankündigung 
+Modulprüfung von Verkehrslogistik II:
+- Klausur (90 Minuten)
+
+
+Modul Name: Verpackungs-, Identifizierungs- und Automatisierungstechnik
+Englischer Modultitel: Packaging, Identification, and Automation Technology
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 3.–6. Semester
+Credits: 5
+Aufwand: 150
+Modultyp und Verwendbarkeit des Moduls Verpackungs-, Identifizierungs- und Automatisierungstechnik: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Logistik
+Zuständige Fakultät von Verpackungs-, Identifizierungs- und Automatisierungstechnik: Maschinenbau
+Lehrinhalte von Verpackungs-, Identifizierungs- und Automatisierungstechnik: Zum Ersten behandeln die Studierenden die im Materialfluss eingesetzten Verpackungen und
+Verpackungskreisläufe. Dabei stehen das Zusammenspiel und die Abstimmung aller Bereiche im
+Vordergrund. Sie erfahren, welche Normen, Richtlinien und Gesetze zum Betrieb dieser Kreisläufe von
+Bedeutung sind. Zum Zweiten erhalten die Studierenden Einblicke in die Identifizierung von
+Materialflussobjekten sowie in Codes und Labeltechniken vom optischen Barcode bis hin zu
+elektronischen Kodierungen und RFID. Des Weiteren umfasst diese Veranstaltung einen Überblick über
+das Feld der Automatisierung. Die Studierenden erlernen methodische Grundlagen der Steuerungsund Regelungstechnik sowie Signal- und Systemtechnik. Des Weiteren beinhaltet die Veranstaltung
+Basiswissen über Sensoren und Aktoren sowie industrielle Kommunikationsverfahren.
+Speicherprogrammierbare Steuerungen und deren Programmierung werden genauer betrachtet. Die
+Grundlagenkenntnisse werden in Vorlesungen vermittelt und in interaktiven Diskussionen sowie
+Übungen vertieft
+Kompetenzen von Verpackungs-, Identifizierungs- und Automatisierungstechnik: Nach Abschluss der Veranstaltung sind die Studierenden in der Lage, zum ersten integrierte
+Verpackungslogistiksysteme zu planen. Sie kennen die maßgeblichen Methoden, Richtlinien und
+Vorgehensweisen und können diese so einsetzen, dass sie in vorgegebenen Zeiten realistische und
+budgetierte Planungsergebnisse erreichen. Sie gestalten zum anderen Systeme der Identifizierungsund Automatisierungstechnik, deren wirtschaftlicher Betrieb nach den vorgegebenen Rand- und
+Ausgangsvoraussetzungen möglich ist. Dabei sind sie in der Lage unter Berücksichtigung von
+Leistungsanforderungen komplexe Identifizierungs- und Automatisierungssysteme zu konzipieren und
+diese zu analysieren.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Verpackungs-, Identifizierungs- und Automatisierungstechnik (2V+2Ü, 5 LP)
+Modulprüfung von Verpackungs-, Identifizierungs- und Automatisierungstechnik:
+- Klausur (120 Minuten)
+
+
+Modul Name: Warehouse Management Systeme
+Englischer Modultitel: Warehouse Management Systems
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 3.–6. Semester
+Credits: 5
+Aufwand: 150
+Modultyp und Verwendbarkeit des Moduls Warehouse Management Systeme: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Logistik
+Zuständige Fakultät von Warehouse Management Systeme: Maschinenbau
+Lehrinhalte von Warehouse Management Systeme: Dieses Modul liefert Basiswissen zum praktischen Einsatz der Informatik in der Logistik. Die Vorlesung
+Warehouse Management Systeme befasst sich mit der rechnerunterstützten Verwaltung und
+Überwachung der Logistikprozesse im Lager. Begleitend dazu wird logistische Datenverarbeitung mit
+Schwerpunkt auf Methoden und Möglichkeiten, mit Standardprogrammen Unternehmensdaten
+auszuwerten, aufzubereiten und darzustellen, behandelt. Den Studierenden wird die Fähigkeit
+vermittelt, Prozesse im Lager aus informationstechnischer Sicht zu betrachten. Sie lernen die üblichen
+Anforderungen, Funktionalitäten sowie die Aufbau- und Leistungsmerkmale der entsprechenden
+Softwaresysteme der Intralogistik kennen und diese aus Prozesssicht zu bewerten.
+Literaturempfehlungen zur Vor- und Nachbereitung der Lehrinhalte werden im Rahmen der
+Lehrveranstaltungen bzw. im MOODLE bekannt gegeben.
+Kompetenzen von Warehouse Management Systeme: Nach Abschluss der Veranstaltung sind die Studierenden in der Lage, integrierte Logistiksysteme aus
+informationstechnischer Sicht zu analysieren und zu planen. Sie kennen die maßgeblichen Methoden,
+Richtlinien und Vorgehensweisen und können diese so einsetzen, dass sie in vorgegebenen Zeiten
+realistische und budgetierte Planungsergebnisse erreichen. Sie gestalten Systeme, deren
+wirtschaftlicher Betrieb nach den vorgegebenen Rand- und Ausgangsvoraussetzungen möglich ist.
+Dabei sind sie in der Lage unter Berücksichtigung von Leistungsanforderungen komplexe logistische
+Systeme aus informationstechnischer Sicht zu konzipieren und diese zu visualisieren. 
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Warehouse Management Systeme (2V+2Ü, 5 LP)
+Modulprüfung von Warehouse Management Systeme:
+- Klausur (120 Minuten)
+
+
+Modul Name: Fertigungslehre
+Englischer Modultitel: Manufacturing Engineering
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 3. Semester
+Credits: 3
+Aufwand: 90 Stunden
+Modultyp und Verwendbarkeit des Moduls Fertigungslehre: Pflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Fertigungslehre: Maschinenbau
+Lehrinhalte von Fertigungslehre:
+- Einführung in verschiedene Urformverfahren zur Herstellung von metallischen Halbzeugen.
+- Grundlagen von umformenden und spanenden Fertigungsverfahren inklusive ihrer Grundprinzipien.
+- Umformtechnische Prozesse zur Massiv- und Blechumformung (IUL).
+- Grundlagen zur Stahl- und Halbzeugherstellung, Konzepte von Spannung und Formänderung, erste Aspekte des Leichtbaus (IUL).
+- Einblicke in fertigungstechnische Abläufe in Produktionsunternehmen, Funktionseigenschaften von Bauteilen, spanende Verfahren mit geometrisch bestimmter und unbestimmter Schneide sowie nichtspanende Abtragverfahren (ISF).
+Kompetenzen von Fertigungslehre:
+- Fähigkeit, umformende und spanende Fertigungsverfahren zu beschreiben.
+- Zuordnung von Bauteilen zu den Fertigungsverfahren und Herstellungsempfehlungen.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Fertigungslehre (2V, 3LP)
+  1. Teil verantwortet vom Institut für Umformtechnik und Leichtbau (IUL)
+  2. Teil verantwortet vom Institut für Spanende Fertigung (ISF)
+Modulprüfung von Fertigungslehre:
+- benotete Klausur (maximal 90 Minuten) BOSS-NR. 84151 (Lehrinhalte aus Teil 1 (IUL) und Teil 2 (ISF) zu jeweils 50 %)
+
+
+Modul Name: Grundlagen der Werkstofftechnik
+Englischer Modultitel: Fundamentals of Material Science
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Grundlagen der Werkstofftechnik: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Grundlagen der Werkstofftechnik: Maschinenbau
+Lehrinhalte von Grundlagen der Werkstofftechnik: Die Werkstofftechnik umfasst als interdisziplinäres Fachgebiet die Beschreibung, Erforschung und
+Entwicklung von Materialien und deren Verhalten zur Schaffung von Bauteilen bzw. Werkstücken.
+Die wichtigsten Werkstoffgruppen der Ingenieurwissenschaften sind die metallischen Werkstoffe (z.
+B. Stahl, Aluminium und Titan), Keramiken und Polymere.
+Durch die Veranstaltung lernen die Studierenden die Zusammenhänge zwischen atomaren Bindungsmechanismen,
+Gitterstrukturen, verschiedenen Gitterfehlerarten und den sich daraus ableitenden
+Werkstoffeigenschaften. Die Studierenden werden befähigt Zweistoff-Phasendiagramme, SpannungsDehnungsdiagramme, Miller’sche Indizes anzuwenden. Des Weiteren werden den Studierenden
+die wichtigsten Vertreter der technischen Werkstoffe vorgestellt.
+Kompetenzen von Grundlagen der Werkstofftechnik: Die Studierenden können nach Teilnahme an dieser Veranstaltung die verschiedenen
+Werkstoffgruppen benennen und die Mechanismen beschreiben, wodurch sich die jeweiligen
+Werkstoffeigenschaften definieren. Das angeeignete Wissen können die Studierenden anwenden, um
+für eine bestimmte Konstruktion oder Anwendung eine geeignete Werkstoffauswahl zu treffen oder
+diese zu erklären und zu bewerten. Zudem können die Studierenden die wesentlichen
+Werkstoffkenngrößen und können die Verfahren und das Vorgehen zu ihrer Bestimmung auswählen
+und erklären.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Grundlagen der Werkstofftechnik (2V+2Ü, 5LP)
+Modulprüfung von Grundlagen der Werkstofftechnik:
+- MultipleChoice-Prüfung (60 Minuten)
+
+
+Modul Name: Strömungsmechanik I
+Englischer Modultitel: Fluid Mechanics I
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Strömungsmechanik I: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Strömungsmechanik I: Maschinenbau
+Lehrinhalte von Grundlagen der Werkstofftechnik: Das Modul führt die Studierenden in die grundlegenden Modelle und Methoden der
+Strömungsmechanik ein. Ausgehend von dem Kräfte- und Momentengleichgewicht in statischen
+Systemen (z. B. Hydrostatik, Aerostatik) erlernen die Studierenden den Aufbau und die Bedeutung der
+integralen Erhaltungssätze für Masse-, Impuls- und Energie der Strömungsdynamik. Hierzu werden
+die integralen Erhaltungsgleichungen vom System (Lagrangesche Betrachtung) auf ein bewegliches,
+deformierbares Kontrollvolumen (Eulersche Betrachtung) überführt. Die in der Strömungsmechanik
+essentielle Ähnlichkeitstheorie (Buckingham), die auf die dimensionslosen Kennzahlen (z.B.
+Reynoldszahl, Machzahl) führt, wird eingeführt. Anschließend wird die Anwendung der
+Erhaltungsgleichungen anhand der vereinfachten, eindimensionalen Betrachtung beginnend mit dem
+reibungslosen, inkompressiblen Fall (Bernoulli-Gleichung) bis hin zum kompressiblen,
+reibungsbehafteten Fall (Laval-Düse, Fanno-Kurven) diskutiert. Mit der Potentialtheorie wird darüber
+hinaus eine Methode zur Berechnung mehrdimensionaler, drehungsfreier Strömungen eingeführt,
+bevor Beispiele realer Strömungen analysiert, abstrahiert und interpretiert werden. Zudem werden
+erste Grundlagen zur Anwendung der Strömungsmechanik im Zusammenhang mit
+Strömungsmaschinen (z.B. Kreiselpumpen) vermittelt. Zur Vertiefung der erlernten Zusammenhänge
+werden die Studierenden eingeladen, an einem Strömungslabor teilzunehmen, in dem an
+verschiedenen Versuchsständen (z.B. Reynold‘scher Farbfadenversuch, Wasserkanal, Windkanal,
+Kreiselpumpenprüfstand) reale Strömungen „erlebt“ werden können.
+Kompetenzen von Grundlagen der Werkstofftechnik: Nach der Teilnahme an dem Modul sind die Studierenden in der Lage, typische einfache
+ingenieurstechnische Strömungsprobleme selbständig soweit zu abstrahieren, dass die erlernten
+analytischen Modelle und Methoden auf das Problem angewandt werden können. Sie werden in die
+Lage versetzt, die Ergebnisse hinsichtlich ihrer (eingeschränkten) Gültigkeit zu bewerten und besitzen
+ein breites strömungsmechanisches Allgemeinwissen, das für viele ingenieurswissenschaftliche
+Fächer eine Verständnisbasis bildet.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Strömungsmechanik I (2V+2Ü, 5LP)
+Modulprüfung von Strömungsmechanik I:
+- Klausur (maximal 120 Minuten)
+
+
+Modul Name: Spanende Fertigungstechnologie I
+Englischer Modultitel: Machining Technology I
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Spanende Fertigungstechnologie I: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Spanende Fertigungstechnologie I: Maschinenbau
+Lehrinhalte von Spanende Fertigungstechnologie I: Die Veranstaltung umfasst eine Einführung in die Grundlagen der Zerspanung. Hierzu werden
+zunächst wirtschaftliche Themen, wie Fertigungskosten und -zeiten, behandelt. Im Folgenden stehen
+Qualitätsmerkmale bearbeiteter Bauteile sowie ihre messtechnische Erfassung im Fokus.
+Fertigungstechnische Grundlagen, wie Verschleiß und Schneidstoffe sowie Begrifflichkeiten der
+Zerspanung werden eingeführt und erläutert. Es folgt ein detaillierter Überblick über die Einordnung
+und Funktionsweise verschiedener spanender Fertigungsverfahren sowohl mit geometrisch
+bestimmter als auch unbestimmter Schneide. Die Vorlesung behandelt zudem die Betriebsmittel der
+spanenden Fertigung.
+Kompetenzen von Spanende Fertigungstechnologie I: Den Studierenden ist es möglich, grundlegende Begrifflichkeiten der spanenden Fertigung zu
+benennen, korrekt zuzuordnen und Zusammenhänge zwischen Prozessgrößen herzustellen. Sie
+können verschiedene Schneidstoffe und Beschichtungen benennen und deren Einsatzgebiete
+darstellen. Die Studierenden sind dazu in der Lage, verschiedene Fertigungsverfahren aus dem
+Bereich der spanenden Fertigung einzuordnen, zu beschreiben und spezifischen
+Bearbeitungsaufgaben zuzuordnen. Berechnungen, etwa zur Wirtschaftlichkeit der Prozesse, können
+die Studierenden ebenfalls durchführen. Darüber hinaus kennen sie verschiedene Betriebsmittel aus
+dem Bereich der Zerspanung und sind dazu in der Lage, deren spezifischen Vor- und Nachteile zu
+erläutern. 
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Spanende Fertigungstechnologie I (2V+2Ü, 5LP)
+Modulprüfung von Spanende Fertigungstechnologie I:
+- Klausur (90 Minuten)
+
+
+Modul Name: Umformende Fertigungstechnologie
+Englischer Modultitel: Forming Manufacturing Technology
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Umformende Fertigungstechnologie: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Umformende Fertigungstechnologie: Maschinenbau
+Lehrinhalte von Umformende Fertigungstechnologie: Das Modul „Umformende Fertigungstechnologie“ ist inhaltlich in den Aufbau von Grundlagenwissen und in die Vermittlung von Prozesswissen gegliedert. Zunächst werden die für die Umformtechnik relevanten werkstofftechnischen Grundlagen und die damit verbundenen Werkstoffkennwerte behandelt. Der Aufbau von Grundlagenwissen umfasst auch die Einführung in die Plastizitätstheorie. Die allgemeinen mechanischen Konzepte der Plastizitätstheorie werden dabei anhand prozessnaher Anwendungsfälle aus dem Bereich der Umformtechnik erläutert. Im zweiten Teil erfolgt die Vermittlung von Prozesswissen. Im Detail werden verschiedene Umformverfahren der Massivumformung, wie das Schmieden, Walzen und das Fließpressen, und der Blechumformung, wie das Biegen und Tiefziehen, präsentiert. Ergänzend werden umformtechnische Verfahren zum Trennen und Fügen behandelt.
+Zur Verknüpfung von Theorie und Praxis werden Live-Umfragen und Live-Experimente durchgeführt, die eine aktive Beteiligung der Studierenden erfordern. Ergänzt werden die Vorlesungen durch Übungen. 
+Kompetenzen von Umformende Fertigungstechnologie: Nach Abschluss des Moduls sind Studierende in der Lage, umformende Fertigungsverfahren im Detail
+zu beschreiben und anhand von analytischen Methoden zu berechnen. Außerdem können sie
+umformtechnische Bauteile den verschiedenen Fertigungsverfahren zuordnen und eine Empfehlung
+zur Herstellung geben.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Umformende Fertigungstechnologie (2V+2Ü, 5LP)
+Modulprüfung von Umformende Fertigungstechnologie:
+- Klausur (maximal 120 Minuten)
+
+
+Modul Name: Fügende Fertigungstechnologie
+Englischer Modultitel: Joining Manufacturing Technology
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Fügende Fertigungstechnologie: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Fügende Fertigungstechnologie: Maschinenbau
+Lehrinhalte von Fügende Fertigungstechnologie: Im Rahmen des Moduls „Fügende Fertigungstechnologie“ erwerben die Teilnehmer elementare
+Kenntnisse über die grundlegenden Aspekte verschiedenster fügetechnischer Fertigungsverfahren.
+Insbesondere wird den Studierenden dabei vermittelt, auf welchen technischen Prinzipien die jeweiligen Verfahren beruhen, wie sich hieraus die jeweiligen Einsatzmöglichkeiten ableiten lassen und
+folglich, inwiefern die entsprechenden Prozesseigenschaften die Möglichkeiten und Grenzen der
+einzelnen Verfahren charakterisieren. 
+Kompetenzen von Fügende Fertigungstechnologie: Nach dem Besuch der Veranstaltung sind die Studierenden in der Lage industriell relevante
+Trennverfahren wie auch Fügeverfahren in ihren Funktionsweisen zu beschreiben und anhand von
+Anwendungsbeispielen auch erklären.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Fügende Fertigungstechnologie (2V+2Ü, 5LP)
+Modulprüfung von Fügende Fertigungstechnologie:
+- Klausur (60 Minuten)
+
+
+Modul Name: Kunststoffverarbeitung I
+Englischer Modultitel: Plastics Processing I
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Kunststoffverarbeitung I: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Kunststoffverarbeitung I: Maschinenbau
+Lehrinhalte von Kunststoffverarbeitung I: Das Modul Kunststoffverarbeitung umfasst die wichtigsten Verarbeitungsprozesse in der Kunststofftechnik. Zu Beginn der Veranstaltung werden Kunststoffe in ihrer grundlegenden Struktur erläutert und voneinander abgegrenzt. Weiterhin wird die Vielfältigkeit von Kunststoffen und ihr jeweiliger Bedarf aufgezeigt. Anschließend geht die Vorlesung auf die grundlegenden Werkstoffcharakteristiken der unterschiedlichen Kunststofftypen ein und unterstreicht die Wechselwirkung zwischen dem Herstellungsprozess und dem Materialverhalten. Weitergehend werden detailliert die Verarbeitungsprozesse in der
+Kunststofftechnik dargelegt. Zunächst wird dabei der Fokus auf das Spritzgießen und den Aufbau von
+Spritzgießwerkzeugen gelegt. Es folgt die Abgrenzung des Extrusionsverfahrens vom Spitzgießverfahren. Dabei werden neben der Anlagentechnik auch der Werkzeugaufbau und die spätere Weiterverarbeitung der Kunststoffhalbzeuge aufgegriffen. 
+Kompetenzen von Kunststoffverarbeitung I: Nach erfolgreicher Teilnahme an diesem Modul sind die Studierenden in der Lage, die behandelten
+Verarbeitungsprozesse zu erkennen und voneinander abzugrenzen. Die Studierenden vertiefen ihr
+Wissen im Bereich der verarbeitungsrelevanten Werkstoffgrundlagen. Des Weiteren sind sie in der
+Lage, den verschiedenen Materialien passende Verarbeitungsverfahren zuzuordnen.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Kunststoffverarbeitung I (2V+2Ü, 5LP)
+Modulprüfung von Kunststoffverarbeitung I:
+- Klausur (60 Minuten)
+
+
+Modul Name: Grundlagen der Simulationstechnik
+Englischer Modultitel: Fundamentals of Simulation Technology
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Grundlagen der Simulationstechnik: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Grundlagen der Simulationstechnik: Maschinenbau
+Lehrinhalte von Grundlagen der Simulationstechnik: Die Studierenden erwerben in diesem Modul fachliche Kenntnisse der Modellierung und Simulation
+von Produktions- und Logistiksystemen. Außerdem sammeln die Studierenden praktische Erfahrungen
+in der Durchführung von Simulationsstudien. Dazu werden die Grundlagen der ereignisdiskreten
+Simulation und deren praktische Anwendung in Fragestellungen aus der Produktionslogistik
+eingeführt. Dabei werden die Methoden der ereignisdiskreten Simulation, die erforderlichen
+Grundlagen der Statistik, der Umgang mit computergenerierten Zufallszahlen, die Verfahren der
+Experimentplanung und –auswertung sowie die Techniken der Verifikation und Validierung behandelt.
+Die praktische Durchführung von Simulationsstudien, insbesondere im Rahmen von
+Planungsprojekten, wird auf Basis des Vorgehensmodells nach VDI 3633.1 im Einzelnen besprochen.
+Ausgewählte Themen und Methoden der Vorlesung, insbesondere zur Modellerstellung, Durchführung
+von Simulationsstudien und der Verifikation und Validierung, werden in den Übungen weiter vertieft
+und an praxisnahen Beispielen diskutiert. Die Simulationsmodelle werden von den Studierenden
+eigenständig erstellt und realitätsnah parametrisiert. Die Simulationsstudien werden mit Hilfe eines
+kommerziellen Simulationswerkzeugs durchgeführt.
+Kompetenzen von Grundlagen der Simulationstechnik: Nach dem erfolgreichen Abschluss dieses Moduls sind die Studierenden in der Lage,
+Simulationsstudien aus Managementsicht zu planen und zu überwachen. Weiterhin sind die
+Studierenden in der Lage, einfache Simulationsstudien eigenständig durchzuführen. Auf Grundlage
+dieser Studien können sie Simulationsergebnisse beurteilen und einordnen. Durch die Einübung eines
+methodischen Vorgehens zur Durchführung von Simulationsstudien können die Studierenden die
+erlernten Inhalte abstrahieren und eigenständig Lösungen für unternehmensspezifische
+Problemstellungen, vor allem im größeren Zusammenhang der Planung von Produktions- und
+Logistiksystemen, entwickeln. 
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Grundlagen der Simulationstechnik (2V+2Ü, 5LP)
+Modulprüfung von Grundlagen der Simulationstechnik:
+- mündliche Prüfung oder Klausur (60 Minuten)
+
+
+Modul Name: Modellierungsmethoden für Zerspanprozesse
+Englischer Modultitel: Modeling Methods for Machining Processes
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Modellierungsmethoden für Zerspanprozesse: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Modellierungsmethoden für Zerspanprozesse: Maschinenbau
+Lehrinhalte von Modellierungsmethoden für Zerspanprozesse: Das Modul gibt einen Überblick über Modellierungs- und Simulationsmethoden für spanende
+Fertigungsprozesse. Dabei erfolgt zunächst eine systematische Einordnung und Begriffsklärung. Für
+konkrete Vertreter aus den wichtigsten Modellklassen (analytisch-empirische Modelle, Finite-Elementbasierte Spanbildungssimulation, geometrisch-physikalische Prozesssimulation) wird die jeweilige
+Funktionsweise erläutert. Die praktische Benutzung eines Finite-Element-basierten
+Spanbildungssimulationssystems rundet den ersten Modulteil ab.
+Kompetenzen von Modellierungsmethoden für Zerspanprozesse: Die Studierenden sind dazu in der Lage, verschiedene Modelle zur Simulation von
+Zerspanungsprozessen zu erklären. Sie können geeignete Modelle für bestimmte Aufgabenstellungen
+aus der Zerspanungssimulation auswählen und anwenden sowie Simulationsresultate, die durch die
+Nutzung der Simulationsmodelle entstanden sind, evaluieren. Schließlich sind die Studierenden in der
+Lage, einfache Simulationsansätze selbst zu entwickeln und zu validieren.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Modellierungsmethoden für Zerspanprozesse (2V+2Ü, 5LP)
+Modulprüfung von Modellierungsmethoden für Zerspanprozesse:
+- Klausur (60 Minuten) oder mündliche Prüfung (30 Minuten)
+
+
+Modul Name: Simulationsgestützte Prozessanalyse in der spanenden Fertigung
+Englischer Modultitel: Simulation-Supported Process Analysis in Machining
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Simulationsgestützte Prozessanalyse in der spanenden Fertigung: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Simulationsgestützte Prozessanalyse in der spanenden Fertigung: Maschinenbau
+Lehrinhalte von Simulationsgestützte Prozessanalyse in der spanenden Fertigung: Im Rahmen dieses Moduls erhalten die Studierenden einen detaillierten Einblick die Möglichkeiten der
+simulationsgestützten Prozessanalyse in der spanenden Fertigung. Hierzu zählt eine Vertiefung
+sowohl ausgewählter Modellierungstechniken zur Prozesssimulation als auch verschiedener Verfahren
+zur Prozessanalyse und –optimierung.
+In der Veranstaltung werden Methoden zur Modellierung und Analyse von Fertigungsverfahren
+systematisch diskutiert und Möglichkeiten zur Beschreibung der für die spanende Bearbeitung
+wesentlichen Effekte diskutiert. Die für die Initialisierung und Validierung der Simulationsmodelle
+benötigten experimentellen Referenzversuche und die Ableitung der benötigten Parameterwerte
+werden ebenfalls erarbeitet. Durch ausgewählte Beispiele aus Forschung und Industrie erhalten die
+Studierenden einen aktuellen Einblick in den Bereich der virtuellen Fertigung.
+Kenntnisse aus den Bereichen Mechanik I, Mechanik III, Messtechnik und Höhere Mathematik I-III
+sind wünschenswert.
+Kompetenzen von Simulationsgestützte Prozessanalyse in der spanenden Fertigung: Die Studierenden sind dazu in der Lage, Methoden für die Simulation von Zerspanprozessen und eine
+simulationsgestützte Prozessanalyse zu erklären. Sie können geeignete Methoden auswählen und
+anwenden. Darüber hinaus können sie Simulationsresultate, die durch die Anwendung von
+Prozesssimulationen entstanden sind, evaluieren. Durch die Erarbeitung eines kleinen Projektes sind
+die Studierenden im Team dazu in der Lage, einfache Simulationsansätze zu entwickeln und
+umzusetzen sowie experimentelle Validierungsversuche zu erarbeiten.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Simulationsgestützte Prozessanalyse in der spanenden Fertigung (2V+2Ü, 5LP)
+Modulprüfung von Simulationsgestützte Prozessanalyse in der spanenden Fertigung:
+- Schriftliche Ausarbeitung einer Gruppenarbeit in Form eines Projektes inkl. mündlicher Präsentation und Prüfung (30–45 Minuten) oder schriftliche Prüfung (60 Minuten)
+
+
+Modul Name: Materialcharakterisierung in der Umformtechnik
+Englischer Modultitel: Material Characterization in Forming Technology
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Materialcharakterisierung in der Umformtechnik: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Materialcharakterisierung in der Umformtechnik: Maschinenbau
+Lehrinhalte von Materialcharakterisierung in der Umformtechnik: In dieser Veranstaltung führen Studierende im Labor Experimente zur Materialcharakterisierung für die
+mechanische Kennwertermittlung in der Umformtechnik (bspw. einachsiger Zugversuch oder ebener
+Torsionsversuch) durch. Die Labor- und Präsenztermine werden ergänzt durch einen Theorieblock im
+Sinne des Selbststudiums (flippedclassrooms). Dabei werden HandsOn-Labore und Remote-Labore
+genutzt. Die experimentell ermittelten Kennwerte dienen der Materialbeschreibung bei der FiniteElemente-Methode, welche den Studierenden zum Abschluss der Veranstaltung in ihren Grundzügen
+vorgestellt wird.
+Die Vorlesungsunterlagen werden über moodle bereitgestellt. Literaturempfehlungen zur Vor- und
+Nachbereitung der Lehrinhalte werden im Rahmen der jeweiligen Lehrveranstaltungen genannt.
+Die studentische Teilnehmerzahl ist für dieses Modul beschränkt. Die aktuelle Kapazitätsgrenze
+entnehmen Sie bitte folgender Homepage: www.iul.eu/de/lehre
+Kompetenzen von Materialcharakterisierung in der Umformtechnik: Nach erfolgreicher Teilnahme können die Studierenden Werkstoffe anhand von Experimenten
+umformtechnisch charakterisieren und deren Anwendung im Rahmen der Finiten-Elemente-Methode
+einordnen.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Materialcharakterisierung in der Umformtechnik (2V+1Ü+1P, 5LP)
+Modulprüfung von Materialcharakterisierung in der Umformtechnik:
+- Klausur (max. 90 Minuten) und/oder Laborbericht und/oder Präsentation gemäß Ankündigung
+
+
+Modul Name: Simulation in der Umformtechnik
+Englischer Modultitel: Simulation in Forming Technology
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Simulation in der Umformtechnik: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Simulation in der Umformtechnik: Maschinenbau
+Lehrinhalte von Simulation in der Umformtechnik: In diesem Modul wird den Studierenden die Anwendung der Finite-Elemente-Methode (FEM) im
+Bereich der Massiv- und Blechumformung vermittelt. Zunächst werden den Studierenden die
+wichtigsten Grundlagen der FEM erläutert. Dazu wird die lineare und nichtlineare FEM vorgestellt und
+durch Beispiele aus der Umformtechnik vertieft. Neben weiteren verknüpften Themengebieten wie der
+Werkstoffmodellierung, Kontaktalgorithmen und der Auswahl der verbreiteten Elementtypen wird den
+Studierenden sowohl in der Vorlesung als auch im Rahmen der Übung der Umgang mit einer
+Simulationssoftware nahegebracht. Den Schwerpunkt bildet hierbei die Vermittlung von Techniken zur
+strukturierten Bearbeitung von Simulationsaufgaben im Bereich der Umformtechnik, von der
+Abstrahierung über die Modellbildung bis zur Auswertung und Validierung von Simulationsergebnissen
+durch Vergleiche mit realen Ergebnissen
+Kompetenzen von Simulation in der Umformtechnik: Nach Abschluss des Moduls können Studierende eigenständig FEM-Simulationen im Bereich der
+Umformtechnik durchführen sowie deren Ergebnisse kritisch bewerten und interpretieren.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Simulation in der Umformtechnik (2V+1Ü+1P, 5LP)
+Modulprüfung von Simulation in der Umformtechnik:
+- Klausur (max. 120 Minuten) und/oder Laborbericht und/oder Präsentation gemäß Ankündigung
+
+
+Modul Name: Strömungsmechanik II
+Englischer Modultitel: Fluid Mechanics II
+Studiengänge: Bachelorstudiengang Informatik
+Dauer: 1 Semester
+Studienabschnitt: 4.–5. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Modultyp und Verwendbarkeit des Moduls Strömungsmechanik II: Wahlpflichtmodul im Bachelorstudiengang Informatik mit Nebenfach Maschinenbau
+Zuständige Fakultät von Strömungsmechanik II: Maschinenbau
+Lehrinhalte von Strömungsmechanik II: Das Modul führt die Studierenden in die theoretischen Grundlagen der numerischen
+Strömungssimulation ein. Hierzu werden zunächst die integralen Erhaltungsgleichungen aus der
+Strömungsmechanik I in die zur Simulation vorteilhafte Form überführt (z.B. integrale und
+differenzielle, konservative und nicht -konservative Form). Darauf aufbauend werden die allgemeinen
+Navier-Stokes Gleichungen abgeleitet und deren physikalischen Randbedingungen erläutert. Über die
+Methode der Finiten Differenzen (FDM) werden die Grundlagen der numerischen Integration partieller
+Differentialgleichungen vorgestellt, wobei insbesondere auf die notwendigen Unterschiede der
+Diskretisierung von advektiven und diffusiven Flüssen sowie die Ordnung, Konsistenz und
+Konvergenz der Ansätze eingegangen wird. In dem Zusammenhang wird die spektrale Fehleranalyse
+wird behandelt. Weiterhin wird die Finite-Volumen-Methode (FVM) eingeführt und eingehend diskutiert
+sowie der FDM gegenübergestellt. Zur späteren Prüfung der Qualität einer numerischen Berechnung
+werden bekannte analytische Lösungen für die vereinfachten Bewegungsgleichungen beschrieben. 
+Kompetenzen von Strömungsmechanik II: Nach der Teilnahme an der Veranstaltung sind die Studierenden in der Lage, die wesentlichen
+Bausteine eines numerischen Simulationswerkzeuges für Strömungen zu verstehen. Dies beinhaltet
+verschiedene Modelle und Methoden der Strömungssimulation kritisch zu bewerten und soll so ein
+fundiertes Allgemeinwissen zur numerischen Lösung partieller Differentialgleichungen vermitteln,
+welches für viele ingenieurswissenschaftliche Fächer eine Basis bildet.
+Informativer Teil: Struktur des Original-Moduls
+Elemente:
+- Strömungsmechanik II (2V+1Ü+1P, 5LP)
+Modulprüfung von Strömungsmechanik II:
+- Mündliche Prüfung (max. 45 Minuten)
+
+
+Modul Name: Analysis I
+Studiengänge: Bachelorstudiengang Informatik
+Turnus: jährlich zum Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 1. Semester
+Credits: 9
+Aufwand: 270 Stunden
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Analysis I:
+- Axiomatische Einführung der reellen und komplexen Zahlenkörper
+- Folgen und Reihen, Grenzwerte und Stetigkeit
+- Eindimensionale Differential- und Integralrechnung
+- Die Übungen dienen der Vertiefung der Lehrinhalte, Einübung wichtiger Rechentechniken und Darstellungsweisen, sowie der Vermittlung grundlegender mathematischer Beweistechniken
+Kompetenzen von Analysis I:
+- Erlernen bzw. Neuerlernen der grundlegenden Methoden der Analysis in einem geschlossen systematischen Aufbau
+- Nachvollziehen und Erstellen mathematischer Beweise
+Prüfungen von Analysis I:
+- Benotete Modulprüfung: Klausur (180 Minuten)
+- Studienleistung: Regelmäßige erfolgreiche Bearbeitung der Übungsaufgaben und aktive Teilnahme an den Übungen
+- Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung
+Teilnahmevoraussetzungen von Analysis I: –keine–
+Modultyp und Verwendbarkeit des Moduls Analysis I: Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Mathematik
+Modulbeauftragte/r von Analysis I: Studiendekan/in der Fakultät für Mathematik
+Zuständige Fakultät von Analysis I: Fakultät für Mathematik
+
+
+Modul Name: Analysis II
+Studiengänge: Bachelorstudiengang Informatik
+Turnus: jährlich zum Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 2. Semester
+Credits: 9
+Aufwand: 270 Stunden
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Analysis II:
+- Fortsetzung der Analysis I mit Fokus auf topologische Grundbegriffe am Beispiel der metrischen Räume sowie die mehrdimensionale Differentialrechnung.
+- Die Übungen dienen der Vertiefung der Lehrinhalte, Einübung wichtiger Rechentechniken und Darstellungsweisen sowie der Vermittlung grundlegender mathematischer Beweistechniken.
+Kompetenzen von Analysis II:
+- Erlernen der grundlegenden Methoden der Analysis in einem geschlossen systematischen Aufbau.
+- Nachvollziehen und Erstellen mathematischer Beweise.
+Prüfungen von Analysis II:
+- Benotete Modulprüfung: Klausur (180 Minuten).
+- Studienleistung: Regelmäßige erfolgreiche Bearbeitung der Übungsaufgaben und aktive Teilnahme an den Übungen. Details werden durch den jeweiligen Dozenten bekannt gemacht.
+- Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Analysis II: Erforderliche Kenntnisse in den Inhalten des Moduls „Analysis I“.
+Modultyp und Verwendbarkeit des Moduls Analysis II: Pflichtmodul im Bachelor-Studiengang Informatik mit Nebenfach Mathematik.
+Modulbeauftragte/r von Analysis II: Studiendekan/in der Fakultät für Mathematik.
+Zuständige Fakultät von Analysis II: Fakultät für Mathematik.
+
+
+Modul Name: Lineare Algebra I
+Studiengänge: Bachelorstudiengang Informatik
+Turnus: jährlich zum Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 3. Semester
+Credits: 10
+Aufwand: 300 Stunden
+Lehrveranstaltungssprache: Deutsch
+Lehrinhalte von Lineare Algebra I:
+- Einführung in die Grundbegriffe und -techniken der Linearen Algebra: Mengen und Abbildungen, Zahlbereiche und algebraische Strukturen, Vektorräume und lineare Abbildungen, Dimensionsbegriff, Skalarprodukte, Matrizen, Lineare Gleichungssysteme.
+- Die Übungen dienen der Vertiefung der Lehrinhalte, Einübung wichtiger Rechentechniken und Darstellungsweisen sowie der Vermittlung grundlegender mathematischer Beweistechniken.
+Kompetenzen von Lineare Algebra I:
+- Erwerb von Grundkenntnissen über den strukturellen Aufbau der Mathematik.
+- Entwicklung eines Verständnisses für einfache Beweise und deren formale Korrektheit.
+- Erkennen von Zusammenhängen zwischen abstrakten Theorien und konkreten Beispielen.
+- Anwendung des Erlernten in praktischen Situationen.
+Prüfungen von Lineare Algebra I:
+- Benotete Modulprüfung: Klausur (180 Minuten).
+- Studienleistung: Regelmäßige erfolgreiche Bearbeitung der Übungsaufgaben und aktive Teilnahme an den Übungen. Details werden durch den jeweiligen Dozenten bekannt gemacht.
+- Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Lineare Algebra I: –keine–
+Modultyp und Verwendbarkeit des Moduls Lineare Algebra I: Pflichtmodul im Bachelor-Studiengang Informatik mit Nebenfach Mathematik.
+Modulbeauftragte/r von Lineare Algebra I: Studiendekan/in der Fakultät für Mathematik.
+Zuständige Fakultät von Lineare Algebra I: Fakultät für Mathematik.
+
+
+Modul Name: Optimierung
+Studiengänge: Bachelorstudiengang Informatik
+Turnus: jährlich im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 10
+Aufwand: 300 Stunden (90 Stunden Präsenzzeit, 210 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Optimierung:
+- Einführung in Methoden der mathematischen Optimierung, inklusive Optimierung auf Graphen und Netzwerken, Lineare Optimierung und nichtlineare Optimierung.
+- Vertiefung der Lehrinhalte und deren Umsetzung auf dem Computer in den Übungen.
+Kompetenzen von Optimierung:
+- Vermittlung von Grundkenntnissen über Methoden, Probleme und Strukturen der Optimierung.
+- Erlernen der algorithmischen Behandlung abstrakter Strukturen und deren Umsetzung auf dem Computer.
+Prüfungen von Optimierung:
+- Modulprüfung: Mündliche Prüfung (20-45 Min.) oder Klausur (120-180 Min).
+- Studienleistung: Regelmäßige erfolgreiche Bearbeitung der Übungsaufgaben und aktive Teilnahme an den Übungen. Details werden durch den jeweiligen Dozenten bekannt gemacht.
+- Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Optimierung: Erforderliche Kenntnisse in den Inhalten des Moduls „Analysis I“, „Analysis II“ und „Lineare Algebra I“.
+Modultyp und Verwendbarkeit des Moduls Optimierung: Wahlpflichtmodul im Bachelor-Studiengang Informatik mit Nebenfach Mathematik.
+Modulbeauftragte/r von Optimierung: Studiendekan/in der Fakultät für Mathematik.
+Zuständige Fakultät von Optimierung: Fakultät für Mathematik.
+
+
+Modul Name: Lineare Algebra II und Analytische Geometrie
+Studiengänge: Bachelorstudiengang Informatik
+Turnus: jährlich im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 10
+Aufwand: 300 Stunden (105 Stunden Präsenzzeit, 195 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Lineare Algebra II und Analytische Geometrie:
+- Fortführung der Linearen Algebra I: Behandlung von Determinanten, Eigenwerten, Normalformen verschiedener Typs, affine Räume, affine und projektive Abbildungen, Fragen der Metrik, Kegelschnitte und Quadriken, jeweils mit Methoden der Linearen Algebra.
+- Die Übungen dienen der Vertiefung der Lehrinhalte, Einübung wichtiger Rechentechniken und Darstellungsweisen, sowie der Vermittlung grundlegender mathematischer Beweistechniken.
+Kompetenzen von Lineare Algebra II und Analytische Geometrie:
+- Vertiefung von Grundkenntnissen über den strukturellen Aufbau der Mathematik, Training der Fähigkeit, einfache Beweise zu finden und formal korrekt niederzuschreiben.
+- Erkennen von Zusammenhängen zwischen abstrakten mathematischen Theorien und konkreten Beispielen, Anwendung des Erlernten in praktischen Situationen.
+- Vertiefung des strukturellen Zugangs zur Mathematik in geometrischen Situationen.
+Prüfungen von Lineare Algebra II und Analytische Geometrie:
+- Benotete Modulprüfung: Mündliche Prüfung (20-45 Min.) oder Klausur (120-180 Min). Details werden durch den jeweiligen Dozenten bekannt gemacht.
+- Studienleistung: Regelmäßige erfolgreiche Bearbeitung der Übungsaufgaben und aktive Teilnahme an den Übungen. Details werden durch den jeweiligen Dozenten bekannt gemacht. Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Lineare Algebra II und Analytische Geometrie: Vorausgesetzte Kenntnisse im Modul „Lineare Algebra I“.
+Modultyp und Verwendbarkeit des Moduls Lineare Algebra II und Analytische Geometrie: Wahlpflichtmodul im Bachelor-Studiengang Informatik mit Nebenfach Mathematik.
+Modulbeauftragte/r von Lineare Algebra II und Analytische Geometrie: Studiendekan/in der Fakultät für Mathematik.
+Zuständige Fakultät von Lineare Algebra II und Analytische Geometrie: Fakultät für Mathematik.
+
+
+Modul Name: Numerische Mathematik
+Studiengänge: Bachelorstudiengang Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 5. Semester
+Credits: 10
+Aufwand: 300 Stunden (110 Stunden Präsenzzeit, 190 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Numerische Mathematik:
+- Einführung in die numerische Behandlung mathematischer Probleme auf Computern, Entwicklung computerorientierter Lösungen und Umsetzung in Softwareumgebungen wie Matlab oder Maple.
+- Themen umfassen Rundungsfehler, Fehlerfortpflanzung, Kondition von Verfahren, Lösungsverfahren für lineare Gleichungssysteme, Interpolation und Approximation, numerische Integration, Iterationsverfahren.
+Kompetenzen von Numerische Mathematik:
+- Erlernen wichtiger Methoden der Angewandten Mathematik, Verständnis für durch Eingabe- und Rundungsfehler gestörte Algorithmen, selbständige Umsetzung von Algorithmen auf dem Computer und Analyse der Resultate.
+Prüfungen von Numerische Mathematik:
+- Modulprüfung: mündliche Prüfung (20–45 Minuten) oder Klausur (90–180 Minuten). Details werden durch den jeweiligen Dozenten bekannt gemacht.
+- Studienleistung: Regelmäßige erfolgreiche Teilnahme an den Übungen. Details werden durch den jeweiligen Dozenten bekannt gemacht. Die Studienleistungen sind Voraussetzung für die Zulassung zur Modulprüfung.
+Teilnahmevoraussetzungen von Numerische Mathematik: Vorausgesetzte Kenntnisse in „Analysis I“, „Analysis II“, „Lineare Algebra I“.
+Modultyp und Verwendbarkeit des Moduls Numerische Mathematik: Wahlpflichtmodul im Bachelor-Studiengang Informatik mit Nebenfach Mathematik.
+Modulbeauftragte/r von Numerische Mathematik: Studiendekan/in der Fakultät für Mathematik.
+Zuständige Fakultät von Numerische Mathematik: Fakultät für Mathematik.
+
+
+Modul Name: Physik A2 (Mechanik, Hydrodynamik)
+Studiengänge: Bachelorstudiengang Informatik
+Turnus: jährlich
+Dauer: 1 Semester
+Studienabschnitt: 3. Semester
+Credits: 7
+Aufwand: 210 Stunden (75 Stunden Präsenzzeit, 135 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Physik A2 (Mechanik, Hydrodynamik):
+- Einleitung (Wissenschaftliche Methodik, Größen, Maßeinheiten, Messfehler)
+- Mechanik (Kinematik, Dynamik von Massenpunkten, Arbeit und Energie, Stoßprozesse, Dynamik der Drehbewegung, Mechanik in bewegten Bezugsystemen, Hydrostatik, Grenzflächen, Hydrodynamik)
+- Elektrizität und Magnetismus (Ladung und Feld, Materie im E-Feld, Stationäre Ströme, Magnetfelder, Bewegte Ladungen im Magnetfeld, Materie im Magnetfeld)
+Kompetenzen von Physik A2 (Mechanik, Hydrodynamik):
+- Vertrautheit mit den Prinzipien, Gesetzmäßigkeiten und Methoden der Physik und deren Anwendung auf konkrete Problemstellungen.
+Prüfungen von Physik A2 (Mechanik, Hydrodynamik):
+- Modulprüfung: Klausur (180 Min.)
+- Studienleistungen: Anwesenheit und Mitarbeit in den Übungen (erfolgreiche Bearbeitung der Übungsaufgaben). Die Studienleistung ist Voraussetzung zur Teilnahme an der Prüfung.
+Teilnahmevoraussetzungen von Physik A2 (Mechanik, Hydrodynamik):
+- Keine spezifischen Anforderungen, wünschenswerte Kenntnisse in Mathematik und Physik auf Schulniveau.
+Modultyp und Verwendbarkeit des Moduls Physik A2 (Mechanik, Hydrodynamik):
+- Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Physik
+Modulbeauftragte/r von Physik A2 (Mechanik, Hydrodynamik): Prof. Dr. M. Tolan
+Zuständige Fakultät von Physik A2 (Mechanik, Hydrodynamik): Fakultät Physik
+
+
+Modul Name: Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik)
+Studiengänge: Informatik
+Turnus: jährlich
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 7
+Aufwand: 210 Stunden (75 Stunden Präsenzzeit, 135 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik):
+- Schwingungen und Wellen (Mechanische und elektromagnetische Wellen, Energie, Überlagerung, Phasen- und Gruppengeschwindigkeit, stehende Wellen)
+- Optik (Geometrische Optik, Reflexion, Brechung, Abbildung durch Linsen und optische Instrumente, Wellenoptik, Interferenz, Beugung von Licht und Röntgenstrahlen, Polarisation, Wärmestrahlung, Photoeffekt, Comptoneffekt, De-Broglie-Beziehung)
+- Atom- und Kernphysik (Bohrsche Postulate, Bohrsches Atommodell, Unschärferelation, Wasserstoffatom, Bahn- und Spinmagnetismus, Zeeman- und Stark-Effekt, Aufbau der Atome und des Periodensystems, Aufbau der Kerne, Kernreaktionen, Strahlenarten, Anwendungen radioaktiver Stoffe)
+Kompetenzen von Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik):
+- Vertrautheit mit den Prinzipien, Gesetzmäßigkeiten und Methoden der Physik und deren Anwendung auf konkrete Problemstellungen.
+Prüfungen von Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik):
+- Modulprüfung: Klausur (180 Min.)
+- Studienleistungen: Anwesenheit und Mitarbeit in den Übungen (erfolgreiche Bearbeitung der Übungsaufgaben). Die Studienleistung ist Voraussetzung zur Teilnahme an der Prüfung.
+Teilnahmevoraussetzungen von Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik):
+- Keine spezifischen Anforderungen, wünschenswerte Kenntnisse in Mathematik und Physik auf Schulniveau.
+Modultyp und Verwendbarkeit des Moduls Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik):
+- Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Physik
+Modulbeauftragte/r von Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik): Prof. Dr. M. Tolan
+Zuständige Fakultät von Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik): Fakultät Physik
+
+
+Modul Name: Experimentelle Übungen für Chemiker, Mathematiker und Informatiker
+Studiengänge: Informatik
+Turnus: Block im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 6
+Aufwand: 240 Stunden (60 Stunden Präsenzzeit, 180 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Experimentelle Übungen für Chemiker, Mathematiker und Informatiker:
+- Grundlegende physikalische Experimente und Messmethoden in den Bereichen Mechanik, Wärmelehre, Elektrizitätslehre, Schwingungen, Optik sowie spezielle Physik (z.B. Atomphysik, Radioaktivität).
+- Erarbeitung der notwendigen praktischen Kenntnisse und Erfahrungen zum experimentellen Arbeiten, zur Messtechnik und zur Datenanalyse.
+- Das Praktikum orientiert sich an Standardversuchen der Experimentalphysik, ergänzt durch einfache, aktuelle Versuche zur Vermittlung moderner Arbeitstechniken.
+Kompetenzen von Experimentelle Übungen für Chemiker, Mathematiker und Informatiker:
+- Verständnis physikalischer Zusammenhänge und Verifikation theoretischer Konzepte im Experiment.
+- Erlernen grundlegender experimenteller Techniken und Messverfahren, Methoden der Datenanalyse und Umgang mit Messunsicherheiten.
+- Fähigkeit zur sprachlichen Formulierung, Dokumentation und kritischen Diskussion eines wissenschaftlichen Arbeitsprozesses.
+- Teamarbeit und wissenschaftliche Kommunikation.
+Prüfungen von Experimentelle Übungen für Chemiker, Mathematiker und Informatiker:
+- Modulprüfung: Mündliche Prüfung (30 Minuten).
+Teilnahmevoraussetzungen von Experimentelle Übungen für Chemiker, Mathematiker und Informatiker:
+- Erfolgreich abgeschlossene Module „Physik A2“ und „Physik B2“.
+Modultyp und Verwendbarkeit des Moduls Experimentelle Übungen für Chemiker, Mathematiker und Informatiker:
+- Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Physik.
+Modulbeauftragte/r von Experimentelle Übungen für Chemiker, Mathematiker und Informatiker: Dekan/in Physik
+Zuständige Fakultät von Experimentelle Übungen für Chemiker, Mathematiker und Informatiker: Fakultät Physik
+
+
+Modul Name: Rehabilitationstechnologie I
+Studiengänge: Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: ab 3. Semester
+Credits: 6
+Aufwand: 180 Stunden
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Rehabilitationstechnologie I:
+- Einführung in die Themen und Fragestellungen der Rehabilitation und deren methodischen Ansätze.
+- Vorstellung der Bedeutung der Technik für Menschen mit Behinderungen, Einordnung der Technik in die Interventionsstrategien der Rehabilitation.
+- Konzepte der assistiven Technologie, Barrierefreiheit und des Universellen Designs.
+- Vorstellung verschiedener Hilfsmittelbereiche und Reflexion ihrer Anwendung.
+Kompetenzen von Rehabilitationstechnologie I:
+- Verständnis für die Anforderungen von Menschen mit Behinderungen an Technik und für die Möglichkeiten des Technikeinsatzes zu ihrer Unterstützung.
+- Reflektion des nutzorientierten Technikeinsatzes und der eigenen Rolle bei der Entwicklung und Umsetzung von Technik.
+Prüfungen von Rehabilitationstechnologie I:
+- Teilleistungen: Unbenotete Klausur in Element 1 und benotete Klausur in Element 2.
+- Studienleistungen: –keine–
+Teilnahmevoraussetzungen von Rehabilitationstechnologie I:
+- Erfolgreich bestanden: –keine–
+- Vorausgesetzte Kenntnisse: Interesse an interdisziplinärer Zusammenarbeit
+Modultyp und Verwendbarkeit des Moduls Rehabilitationstechnologie I:
+- Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Rehabilitionstechnologie
+Modulbeauftragte/r von Rehabilitationstechnologie I: Prof. Dr.-Ing. Ch. Bühler
+Zuständige Fakultät von Rehabilitationstechnologie I: Fakultät Rehabilitationswissenschaften
+
+
+Modul Name: Rehabilitationstechnologie II
+BSc-Studiengänge: Informatik
+Turnus: jährlich
+Dauer: 1–2 Semester
+Studienabschnitt: ab 4. Semester
+Credits: 14
+Aufwand: 420 Stunden
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Rehabilitationstechnologie II:
+- Praktischer Umgang mit unterschiedlichen Hilfsmitteln, Nutzen und Grenzen der Technik.
+- Vertiefung der Möglichkeiten des Zugangs von Menschen mit Behinderungen zu PC und Computer.
+- Prinzipien zur Programmierung barrierefreier Internetseiten und Umsetzung an einem Beispiel eines CMS.
+- Selbstständige Bearbeitung ausgewählter Problemstellungen der Rehabilitationstechnologie in einer Projektarbeit.
+Kompetenzen von Rehabilitationstechnologie II:
+- Interdisziplinäre Auseinandersetzung mit Pädagogen und Nutzern zur Lösung von Alltagsproblemen Menschen mit Behinderungen durch Technikeinsatz.
+- Recherche und Transfer internationaler F&E Lösungen in relevante kulturelle Kontexte.
+Prüfungen von Rehabilitationstechnologie II:
+- Modulprüfung: Projektarbeit mit schriftlicher Ausarbeitung, mündlicher Präsentation und Fachgespräch in Element 4.
+- Studienleistungen in den Seminaren gemäß Ankündigung. Diese sind Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Rehabilitationstechnologie II:
+- Erfolgreich abgeschlossen: –keine–
+- Vorausgesetzte Kenntnisse: Modul „Rehabilitationstechnologie I“
+Modultyp und Verwendbarkeit des Moduls Rehabilitationstechnologie II:
+- Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Rehabilitationstechnologie
+Modulbeauftragte/r von Rehabilitationstechnologie II: Prof. Dr.-Ing. Ch. Bühler
+Zuständige Fakultät von Rehabilitationstechnologie II: Fakultät Rehabilitationswissenschaften
+
+
+Modul Name: Elementare Wahrscheinlichkeitsrechnung
+Englischer Modultitel: Elementary Probability Theory
+Studiengang: Bachelorstudiengang Informatik
+Turnus: Jährlich zum Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 9
+Aufwand: 270 Stunden (90 Stunden Präsenzzeit, 180 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Elementare Wahrscheinlichkeitsrechnung:
+  - Die Veranstaltung Statistik II (Wahrscheinlichkeitsrechnung) (4V + 2Ü) schlägt die Brücke von der
+beschreibenden Statistik zu den analogen Begriffen in der Wahrscheinlichkeitstheorie. Sie bildet damit die
+Voraussetzung zu den Modulen "Schätzen und Testen" sowie "Lineare Modelle".
+Zunächst wird das wahrscheinlichkeitstheoretische Modell vorgestellt inkl. Kombinatorik, bedingten
+Wahrscheinlichkeiten, stochastischer Unabhängigkeit, totaler Wahrscheinlichkeit und Bayes'scher Formel. Dann
+wird der zentrale Begriff der Zufallsvariable definiert und unter der Voraussetzung der Existenz einer Dichte
+werden die wichtigsten Charakteristika der Verteilungen (Erwartungswert, Varianz, Tschebyscheff Ungleichung,
+Momente, Quantile) behandelt. Darauf Bezug nehmend werden die wichtigsten diskreten und stetigen
+Verteilungen diskutiert. Danach werden Zufallsvektoren und dazugehörige Charakteristika eingeführt
+(Erwartungswert, (Ko-)Varianz, Korrelation, bedingter Erwartungswert), wichtige Beispiele diskutiert (Multinomialund Multihypergeometrische Verteilung, bivariate Normalverteilung) sowie Summen unabhängiger
+Zufallsvariablen und einfache Formen des Gesetzes der großen Zahlen und des zentralen Grenzwertsatzes
+vorgestellt.
+In der Veranstaltung Programmieren mit Statistik-Programmpaket II (1V + 2SÜ) werden die Begriffsbildungen
+der Wahrscheinlichkeitsrechnung am Computer eingeübt. Dazu gehören Zufallszahlen, Ziehen von Stichproben,
+Arbeiten mit Verteilungen und Methoden der Kombinatorik sowie Simulationen. Außerdem werden
+fortgeschrittene Programmiertechniken vermittelt. Diese beinhalten vektorisiertes und objektorientiertes
+Programmieren, effiziente Programmierung, Workspace und Scoping Rules und das Erstellen eigener
+Funktionen. 
+Kompetenzen von Elementare Wahrscheinlichkeitsrechnung:
+  - Die Studierenden erwerben die methodische Grundlage der schließenden Statistik und vertiefte Kenntnisse im
+Programmieren. Dabei erwerben sie die Kompetenz, mittels Simulationen am Computer statistische Aussagen
+nachzuvollziehen und zu überprüfen. 
+Prüfungen von Elementare Wahrscheinlichkeitsrechnung:
+  - Studienleistungen und eine benotete Teilleistung in Form einer Klausur oder einer mündlichen Prüfung über
+Statistik II sowie eine unbenotete Teilleistung für Programmieren mit Statistik-Programmpaket II. Die
+Studienleistungen beinhalten regelmäßige erfolgreiche Bearbeitung der Übungsaufgaben und aktive Teilnahme
+an den Übungen. Die Einzelheiten werden jeweils zu Beginn der Veranstaltungen bekanntgegeben
+Teilnahmevoraussetzungen von Elementare Wahrscheinlichkeitsrechnung: BS I
+Modultyp und Verwendbarkeit des Moduls Elementare Wahrscheinlichkeitsrechnung:
+  - Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Statistik
+Modulbeauftragte/r von Elementare Wahrscheinlichkeitsrechnung: Der Vorsitzende des Prüfungsausschusses
+Zuständige Fakultät von Elementare Wahrscheinlichkeitsrechnung: Fakultät Statistik
+
+
+Modul Name: Schätzen und Testen I
+Englischer Modultitel: Estimation and Testing I
+Studiengang: Bachelorstudiengang Informatik
+Turnus: Jährlich zum Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 5. Semester
+Credits: 9
+Aufwand: 270 Stunden (90 Stunden Präsenzzeit, 180 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Schätzen und Testen I: Das Modul gibt einen Überblick über die wichtigsten Methoden des Statistischen Schätzens und Testens.
+Folgende Begriffe werden in der Veranstaltung Statistik III (4V + 2Ü) behandelt:
+Punktschätzung: Momentenmethode, Maximum-Likelihood-Methode, Konsistenz, Mittlerer quadratischer Fehler,
+Erwartungstreue, Rao-Cramérsche Ungleichung, Suffizienz, Satz von Rao-Blackwell, Satz von Lehmann-Scheffé
+Intervallschätzung: Pivotmethode, (ein- und zweiseitige) Konfidenzintervalle
+Testen von Hypothesen: Allgemeines Testproblem, Fehler I. und II. Art, Testniveau, Güte- und Power- Funktion,
+Neyman-Pearson-Lemma, Tests bei Normalverteilung, t-Test, Zusammenhang zwischen Tests und
+Konfidenzintervallen.
+Kompetenzen von Schätzen und Testen I: Die Verfahren des Testens und des Schätzens sind die Grundlagen der schließenden Statistik. Die Studierenden
+kennen grundlegende Verfahren und ihren theoretischen Hintergrund. Sie können einfache Gütekriterien zur
+Auswahl zwischen unterschiedlichen Verfahren anwenden. In den Übungen haben sie die Verfahren auf
+exemplarische Situationen angewendet
+Prüfungen von Schätzen und Testen I:
+  - Modulprüfung: Benotete Klausur (180 Minuten)
+Teilnahmevoraussetzungen von Schätzen und Testen I: - es bestehen keine formalen Voraussetzungen -
+Kenntnisse aus folgenden Modulen / Veranstaltungen sind jedoch sinnvoll:
+Modul BS I (Deskriptive Statistik), Modul BS II (Elementare Wahrscheinlichkeitsrechnung),
+Module BS III / IV (Analysis)
+Modultyp und Verwendbarkeit des Moduls Schätzen und Testen I:
+  - Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Statistik
+Modulbeauftragte/r von Schätzen und Testen I: Der Vorsitzende des Prüfungsausschusses
+Zuständige Fakultät von Schätzen und Testen I: Fakultät Statistik
+
+
+Modul Name: R für Data Scientists
+Englischer Modultitel: R for Data Scientists
+Studiengang: Bachelorstudiengang Informatik
+Turnus: siehe Modul BD 8
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 4,5
+Aufwand: 135 Stunden (45 Stunden Präsenzzeit, 90 Stunden Selbststudium)
+Lehrveranstaltungssprache: siehe Modul BS 4
+Lehrinhalte von R für Data Scientists: In der Veranstaltung R für Data Scientists werden die Grundlagen der Statistik Sprache R
+vermittelt. Dazu gehören Zuweisungen, elementare Operatoren, Datentypen,
+Datenstrukturen, Eingabe/Ausgabe von Daten inkl. Datenbanken, Auffinden von
+Programmierhilfen, Programmier-Konstrukte wie Schleifen und Fallunterscheidung,
+Erstellen eigener Funktionen, Umgang mit stat. Verteilungen inkl. Ziehung von Zufallszahlen
+sowie Simulationen. Weiterhin wird objektorientiertes (S3, S4) Programmieren, effiziente
+Programmierung, Scoping Rules und paralleles Rechnen mit R vermittelt.
+In der Veranstaltung Programmierung werden die Grundlagen einer weiteren
+Programmiersprache wie zum Beispiel Julia, Python oder SAS vermittelt.
+Kompetenzen von R für Data Scientists: Die Studierenden verstehen grundlegende Konzepte der prozeduralen und objektorientierten Programmierung. Sie sind dazu in der Lage, die Programmiersprache R zu
+verwenden, um einfache statistische Probleme zu lösen.
+Prüfungen von R für Data Scientists:
+  - Modulprüfung: Benotete Klausur. Teilleistungen nach Vorgabe der Lehrenden. Die jeweiligen Anforderungen zum Erwerb der Leistungspunkte werden zu Beginn der jeweiligen Veranstaltung bekanntgegeben.
+Teilnahmevoraussetzungen von R für Data Scientists: –keine–
+Modultyp und Verwendbarkeit des Moduls R für Data Scientists:
+  - Pflichtmodul im Bachelorstudiengang Informatik, Nebenfach Statistik
+Modulbeauftragte/r von R für Data Scientists: Dr. U. Ligges
+Zuständige Fakultät von R für Data Scientists: Fakultät Statistik
+
+
+Modul Name: Anatomie I
+BSc-Studiengang: Informatik
+Turnus: Jährlich zum Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 3. Semester
+Credits: 4
+Aufwand: 120 Stunden (30 Stunden Präsenzzeit, 90 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Anatomie I:
+  - Anatomie des Skelettes, der Muskulatur, des Brustkorbes, der Bauchhöhle und der Extremitäten
+Kompetenzen von Anatomie I:
+  - Ziel ist es, das Grundverständnis der Anatomie in den Vorlesungen zu erarbeiten und einen entsprechenden Praxisbezug zu Krankheiten und Verletzungen herzustellen
+Prüfungen von Anatomie I:
+  - Modulprüfung: Klausur oder mündliche Prüfung
+  - Studienleistungen: Die Inhalte der letzten Vorlesung werden zu Beginn jeder nächsten Vorlesung kurz nachgefragt.
+Teilnahmevoraussetzungen von Anatomie I: –keine–
+Modultyp und Verwendbarkeit des Moduls Anatomie I:
+  - Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Theoretische Medizin
+Modulbeauftragte/r von Anatomie I: Prof. Haarmann, Martin-Luther-Krankenhaus, Bochum-Wattenscheid
+Zuständige Fakultät von Anatomie I: Medizinische Fakultät der Ruhr-Universität Bochum
+
+
+Modul Name: Anatomie II
+BSc-Studiengang: Informatik
+Turnus: jährlich zum Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 4
+Aufwand: 120 Stunden (30 Stunden Präsenzzeit, 90 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Anatomie II:
+  - Anatomie des zentralen und peripheren Nervensystems einschließlich der Gefäßversorgung und Liquorräume, Sinnesorgane Haut, Auge, Ohr. Praktische Übungen und Demonstrationen am Mikroskop und anatomischen Präparat.
+Kompetenzen von Anatomie II:
+  - Erkennen der anatomischen Strukturen des Nervensystems und der Sinnesorgane und Benennung deren Funktionen.
+Prüfungen von Anatomie II:
+  - Modulprüfung: Klausur oder mündliche Prüfung
+  - Studienleistungen: Praktische Demonstration am Präparat oder Modell. Die Studienleistung ist Voraussetzung für die Teilnahme an der Modulprüfung.
+Teilnahmevoraussetzungen von Anatomie II: –keine–(Die vorhergehende Teilnahme am Modul „Anatomie I“ ist nicht erforderlich.)
+Modultyp und Verwendbarkeit des Moduls Anatomie II:
+  - Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Theoretische Medizin
+Modulbeauftragte/r von Anatomie II: Prof. Dr. Pedro M. Faustmann (Institut für Anatomie, Abteilung Neuroanatomie/ Molekulare Hirnforschung)
+Zuständige Fakultät von Anatomie II: Medizinische Fakultät der Ruhr-Universität Bochum
+
+
+Modul Name: Physiologie I
+BSc-Studiengang: Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 3. Semester
+Credits: 3
+Aufwand: 90 Stunden (30 Stunden Präsenzzeit, 60 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Physiologie I:
+  - Zellfunktionen, Nerv, Muskel, Synapsen, vegetatives und motorisches Nervensystem, Herz, Kreislauf
+Kompetenzen von Physiologie I:
+  - Grundfunktionen von Nerven, Muskeln, und Synapsen, Prozesse der Erregungsbildung und -leitung, Vorgänge bei der Muskelkontraktion, Funktionen des motorischen und vegetativen Nervensystems, Herz- und Kreislauffunktionen
+Prüfungen von Physiologie I:
+  - Modulprüfung: Klausur oder mündliche Prüfung
+  - Studienleistungen: –keine–
+Teilnahmevoraussetzungen von Physiologie I: –keine–
+Modultyp und Verwendbarkeit des Moduls Physiologie I:
+  - Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Theoretische Medizin
+Modulbeauftragte/r von Physiologie I: PD Dr. Martin Hexamer
+Zuständige Fakultät von Physiologie I: Medizinische Fakultät der Ruhr-Universität Bochum
+
+
+Modul Name: Physiologie II
+BSc-Studiengang: Informatik
+Turnus: jährlich zum Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 3
+Aufwand: 90 Stunden (30 Stunden Präsenzzeit, 60 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Physiologie II:
+  - Atmung und Gastransport, Niere, Regulationsphysiologie, Sinnesorgane, Zentralnervensystem
+Kompetenzen von Physiologie II:
+  - Verständnis komplexer physiologischer Funktionssysteme, Wirkung physiologischer Regulationssysteme, Konstanthaltung des physikalischen und chemischen Milieus, wichtige Sinnessysteme, integrative Funktionen des Zentralnervensystems
+Prüfungen von Physiologie II:
+  - Modulprüfung: Klausur oder mündliche Prüfung
+  - Studienleistungen: –keine–
+Teilnahmevoraussetzungen von Physiologie II:
+  - Vorausgesetzte Kenntnisse: Modul „Physiologie I“
+Modultyp und Verwendbarkeit des Moduls Physiologie II:
+  - Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Theoretische Medizin
+Modulbeauftragte/r von Physiologie II: PD Dr. Martin Hexamer
+Zuständige Fakultät von Physiologie II: Medizinische Fakultät der Ruhr-Universität Bochum
+
+
+Modul Name: Biochemie I
+BSc-Studiengang: Informatik
+Turnus: jährlich im Wintersemester
+Dauer: 1 Semester
+Studienabschnitt: 5. Semester
+Credits: 3
+Aufwand: 90 Stunden (30 Stunden Präsenzzeit, 60 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Biochemie I:
+  - Biomoleküle, Zellen, Nukleinsäuren, Genexpression, Proteine (Enzyme, Strukturproteine), Signaltransduktion
+Kompetenzen von Biochemie I:
+  - Grundlagen für das Verständnis der Pharmakologie, Mikrobiologie, Virologie und Hygiene. Behandlung häufig vorkommender Krankheiten wie Tumoren und Virusinfektionen.
+Prüfungen von Biochemie I:
+  - Modulprüfung: Klausur oder mündliche Prüfung
+  - Studienleistungen: –keine–
+Teilnahmevoraussetzungen von Biochemie I: –keine–
+Modultyp und Verwendbarkeit des Moduls Biochemie I:
+  - Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Theoretische Medizin
+Modulbeauftragte/r von Biochemie I: Prof. Dr. Albrecht Wegner
+Zuständige Fakultät von Biochemie I: Medizinische Fakultät der Ruhr-Universität Bochum
+
+
+Modul Name: Biochemie II
+BSc-Studiengang: Informatik
+Turnus: jedes zweite Semester, derzeit jeweils im Sommersemester
+Dauer: 1 Semester
+Studienabschnitt: 4. Semester
+Credits: 3
+Aufwand: 90 Stunden (30 Stunden Präsenzzeit, 60 Stunden Selbststudium)
+Lehrveranstaltungssprache: deutsch
+Lehrinhalte von Biochemie II:
+  - Stoffwechsel der Kohlenhydrate, Fettsäuren, Cholesterin, Aminosäuren
+  - Vitamine, Blutstillung, Einführung in die Immunabwehr
+Kompetenzen von Biochemie II:
+  - Grundlagen für das Verständnis der Pharmakologie, Mikrobiologie und der Klinischen Chemie. Behandlung wichtiger Stoffwechselkrankheiten wie Diabetes, Adipositas, Arteriosklerose, Gicht usw.
+Prüfungen von Biochemie II:
+  - Modulprüfung: Klausur oder mündliche Prüfung
+  - Studienleistungen: –keine–
+Teilnahmevoraussetzungen von Biochemie II: –keine–
+Modultyp und Verwendbarkeit des Moduls Biochemie II:
+  - Pflichtmodul im Bachelor-Studiengang Informatik, Nebenfach Theoretische Medizin
+Modulbeauftragte/r von Biochemie II: Prof. Dr. Albrecht Wegner
+Zuständige Fakultät von Biochemie II: Medizinische Fakultät der Ruhr-Universität Bochum
+
+
+Module in Nebenfach Chemie: Allgemeine und Anorganische Chemie 1, Anorganische Chemie 2, Organische Chemie für Nebenfach-Studierende, Praktikum Organische Chemie für Nebenfach-Studierende.
+
+
+Module in Nebenfach Elektrotechnik:
+-Pflichtmodule: Grundlagen der Elektrotechnik.
+-Wahlpflichtmodul Signalverarbeitung: Signale und Systeme.
+-Wahlpflichtmodul Energietechnik: Einführung in die Energietechnik für Informatik
+-Wahlmodule Signalverarbeitung: Digitale Signalverarbeitung, Grundlagen der Mechatronik, Halbleiterbauelemente für Informatiker, Nachrichtentechnik, Steuerungs- und Regelungstechnik, Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik, Theoretische Grundlagen der Informationstechnik für ETIT.
+-Wahlmodul Energietechnik: Messtechnik und EMV.
+
+
+Module in Nebenfach Logistik:
+-Pflichtmodule: Einführung in die Logistik.
+-Wahlpflichtmodule: Grundlagen der Unternehmenslogistik und des Supply Chain Managements, Materialflusssysteme I, Verkehrslogistik I, Verkehrslogistik II, Verpackungs- Identifizierungs- und Automatisierungstechnik, Warehouse Management Systeme.
+
+
+Module in Nebenfach Maschinenbau:
+-Pflichtmodul: Fertigungslehre.
+-Wahlpflichtmodule: Grundlagen der Werkstofftechnik, Strömungsmechanik, Spanende Fertigungstechnologie I, Umformende Fertigungstechnologie, Fügende Fertigungstechnologie, Kunststoffverarbeitung I, Grundlagen der Simulationstechnik, Modellierungsmethoden für Zerspanprozesse, Simulationsgestützte Prozessanalyse in der spanenden Fertigung, Materialcharakterisierung in der Umformtechnik, Simulation in der Umformtechnik, Strömungsmechanik II.
+
+
+Module in Nebenfach Mathematik:
+-Pflichtmodule: Analysis I, Analysis II, Lineare Algebra I.
+-Wahlpflichtmodule: Optimierung, Lineare Algebra II und Analytische Geometrie, Numerische Mathematik.
+
+
+Module in Nebenfach Physik: Physik A2 (Mechanik, Hydrodynamik), Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik), Experimentelle Übungen für Chemiker Mathematiker und Informatiker.
+
+
+Module in Nebenfach Rehabilitationstechniken: Rehabilitationstechnologie I, Rehabilitationstechnologie II.
+
+
+Module in Nebenfach Statistik:
+-Pflichtmodule: Elementare Wahrscheinlichkeitsrechnung, Schätzen und Testen I, R für Data Scientists.
+
+
+Module in Nebenfach Theoretische Medizin: Anatomie I, Anatomie II, Physiologie I, Physiologie II, Biochemie I, Biochemie II.
+
+
+Module in Nebenfach Wirtschaftswissenschaften:
+-Wahlpflichtmodule: Markt und Absatz, Rechnungswesen und Finanzen I, Rechnungswesen und Finanzen II, Wirtschaftstheorie I, Wirtschaftstheorie II, Planung Entscheidung und Wertschöpfung, Management Technologie und Innovation I, Managements Technologie und Innovation II.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
