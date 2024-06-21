@@ -127,7 +127,7 @@ Einsicht in die Prüfungsunterlagen:
 (1) Nach Bekanntgabe der Klausurergebnisse haben Studierende das Recht auf Einsichtnahme. Die genauen Zeit und Ort werden von den Prüfern festgelegt und rechtzeitig bekannt gegeben. Es muss mindestens eine Woche zwischen Bekanntgabe der Ergebnisse und der Einsichtnahme liegen.
 (2) Studierende können auf Antrag Einsicht in ihre schriftlichen Prüfungsleistungen, die Gutachten der Prüfer sowie die Protokolle mündlicher Prüfungen erhalten. Der Antrag muss innerhalb von drei Monaten nach Bekanntgabe des Prüfungsergebnisses an den Vorsitzenden des Prüfungsausschusses gestellt werden. Die Einsichtnahme erfolgt zu einem vom Vorsitzenden festgelegten Zeitpunkt und Ort.
 
-Module der Fachgebiet Informatik (Pflichtmodule) / Computer Science Major Subjects(Modules):
+Pflichtmodule der Fachgebiet Informatik  / Computer Science Mandatory Subjects(Modules):
 Datenstrukturen, Algorithmen und Programmierung 1 (DAP 1)
 Datenstrukturen, Algorithmen und Programmierung 2 (DAP 2)
 Softwaretechnik (SWT)
@@ -149,7 +149,7 @@ Bachelorabschlussmodul.
 Studierende mit dem Nebenfach Elektrotechnik absolvieren statt der Module ETKT und HaPra zusätzliche Module im Nebenfach
 Studierende mit dem Nebenfach Mathematik absolvieren statt der Module MafI1 und MafI2 zusätzliche Module im Nebenfach.
 
-Module der Fachgebiet Informatik (Wahlpflichtmodule) / Computer Science Elective Subjects(Modules):
+Wahlfplichtmodule der Fachgebiet Informatik und Angewandte Informatik  /  Computer Science and Applied Computer Science Elective Compulsory Subjects (Modules):
 Es müssen insgesamt 16 Leistungspunkte erworben werden durch den erfolgreichen Abschluss von jeweils nur einem Modul aus jedem der folgenden zwei Modulkataloge:
 1.Systeme der Informatik:
 	-Mensch-Maschine-Interaktion (MMI)
@@ -166,7 +166,7 @@ Darüber sind zwei weitere Module aus dem folgenden Modulkatalog im Umfang von 8
 	-Übersetzerbau (ÜB)
 	-Funktionale Programmierung (FuPro)
 
-Module der Fachgebiet Angewandte Informatik (Pflichtmodule) / Applied Computer Science Major Subjects(Modules):
+Pflichtmodule der Fachgebiet Angewandte Informatik  / Applied Computer Science Mandatory Subjects (Modules):
 Datenstrukturen, Algorithmen und Programmierung 1 (DAP 1)
 Datenstrukturen, Algorithmen und Programmierung 2 (DAP 2)
 Softwaretechnik (SWT)
@@ -185,23 +185,7 @@ Fachprojekt (7 Leistungspunkte): kann auch im Anwendungsfach belegt werden.
 Bachelorabschlussmodul.
 Studierende mit dem Anwendungsfach Dienstleistungsinformatik absolvieren die Module Mathematik für Informatik 1 (MafI1) und Mathematik für Informatik 2 (MafI2) im Umfang von jeweils 9 Leistungspunkten, das Modul Logik für Informatik (LOG) im Umfang von 5 Leistungspunkten sowie ein Modul aus dem Modulkatalog Konzepte für Software des Wahlpflichtbereichs
 
-Module der Fachgebiet Angewandte Informatik (Wahlpflichtmodule) / Applied Computer Science Elective Subjects(Modules):
-Zur Erlangung von zusätzlichen 8 Leistungspunkten muss der Studierende entweder ein Modul aus den Modulkatalogen "Systeme der Informatik" oder "Algorithmisch-formale Grundlagen" wählen, oder zwei Module aus dem Modulkatalog "Konzepte für Software". Alternativ kann der Studierende auch ein Modul aus dem Wahlbereich und ein Modul aus dem Modulkatalog "Konzepte für Software" absolvieren.
-1.Modulkatalog Systeme der Informatik (8 Leistungspunkte):
-	a.Mensch-Maschine-Interaktion (MMI)
-	b.Rechnerarchitektur (RA)
-	c.Eingebettete Systeme (ES)
-	d.Modellgestützte Analyse und Optimierung (MAO)
-2.Modulkatalog Algorithmisch-formale Grundlagen (8 Leistungspunkte):
-	a.Effiziente Algorithmen (EA)
-	b.Darstellung, Verarbeitung und Erwerb von Wissen (DVEW)
-	c.Formale Methoden des Systementwurfs (FMSE)
-3.Modulkatalog Konzepte für Software (4 Leistungspunkte):
-	a.Softwarekonstruktion (SWK)
-	b.Übersetzerbau (ÜB)
-	c.Funktionale Programmierung (FuPro)
-
-Nebenfächer der Fachgebiet Informatk (Minor Subjects(Modules) Computer Science):
+Nebenfächer (Nebenfachvereinbarung) der Fachgebiet Informatk (Minor Subjects(Modules) Computer Science):
 Studierende im Fachgebiet Informatik müssen zusätzliche 20 Leistungspunkte in einem der folgenden Nebenfächer (Minor Subjects) erwerben: Maschinenbau, Physik, Rehabilitationstechnologie, Theoretische Medizin, Wirtschaftswissenschaften, oder Philosophie. Es gibt spezifische Anforderungen für Studierende mit Nebenfach Elektrotechnik (insgesamt 31 Leistungspunkte), Nebenfach Mathematik (insgesamt 38 Leistungspunkte) und Nebenfach Statistik (mindestens 24 Leistungspunkte). Andere Nebenfächer können auf Antrag genehmigt werden. Modulkataloge für jedes Nebenfach werden festgelegt und veröffentlicht. Die Leistungspunkte werden durch erfolgreichen Abschluss der entsprechenden Module erworben. Lehrinhalte und Prüfungsleistungen entsprechen in der Regel denen anderer Fakultäten, mit Abweichungen basierend auf den Nebenfachbestimmungen. Einige Pflichtveranstaltungen entfallen je nach Nebenfach.
 Für Studierende mit Nebenfach Elektrotechnik entfallen folgende Veranstaltungen im Umfang von 11 Leistungspunkten: Elektrotechnik und Nachrichtentechnik (ETNT), Hardwarepraktikum (HaPra). Sie erwerben daher Leistungspunkte aus der Elektrotechnik mit einem Umfang von insgesamt 31 Leistungspunkten. 
 Für Studierende mit dem Nebenfach Mathematik entfallen folgende Veranstaltungen im Umfang von 18 Leistungspunkten: Mathematik für Informatik 1 (MafI1), Mathematik für Informatik 2 (MafI2). Sie erwerben daher Leistungspunkte aus der Mathematik mit einem Umfang von insgesamt 38 Leistungspunkten.

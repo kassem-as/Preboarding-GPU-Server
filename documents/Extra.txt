@@ -34,3 +34,120 @@ Bewerbung und Einschreibung (Application and Enrollment): Beide Bachelorstudieng
 Als Studieninteressierte mit deutschem Abitur und deutscher Staatsangehörigkeit können Sie sich während der Fristen für zulassungsfreie Studiengänge einfach im Campus-Portal online einschreiben.
 Als Studieninteressierte mit einer Staatsbürgerschaft und/oder einer Hochschulzugangsberechtigung aus einem anderen EU-/EWR-Staat beantragen Sie über das Referat Inter­natio­nales schriftlich die Zulassung.
 Als internationale Studieninteressierte aus nicht EU-/EWR-Staaten bewerben Sie sich über uni-assist, dem Portal der Ar­beits- und Servicestelle für in­ter­na­ti­o­na­le Studienbewerbungen
+
+Prüfungstermine (Klausurtermin)  für Effiziente Algorithmen (EA) (Prof. Dr. Amin Coja-Oghlan):
+15.-19.07.2024 und 02.10.2024, 12:00 - 13:30
+
+Prüfungstermine (Klausurtermin) für Datenbanken in der Praxis (DBprax) (Prof. Dr. Jens Teubner):
+23.07.2024, 15:00 - 16:00 und 09.09.2024, 09:00 - 10:00
+
+Prüfungstermine (Klausurtermin) für Softwaretechnik (SWT) (Jun.-Prof. Dr. Ben Hermann):
+24.07.2024, 08:30 - 10:00 und 21.08.2024, 08:30 - 10:00
+
+Prüfungstermine (Klausurtermin) für Funktionale Programmierung (FuPro) (Prof. Dr. Jakob Rehof):
+25.07.2024, 13:00 - 15:00 und 18.09.2024, 08:00 - 10:00
+
+Prüfungstermine (Klausurtermin) für Informationssysteme (IS) (Prof. Dr. Jens Teubner):
+29.07.2024, 16:00 - 17:00 und 18.09.2024, 14:00 - 15:00
+
+Prüfungstermine (Klausurtermin) für Datenstrukturen, Algorithmen und Programmierung 2 (DAP 2) (Prof. Dr. Kevin Buchin):
+30.07.2024, 08:00 - 11:00 und 24.09.2024, 12:00 - 15:00
+
+Prüfungstermine (Klausurtermin) für Modellierung Nebenläufiger Prozesse (MNP) (Prof. Dr. Jakob Rehof):
+30.07.2024, 12:00 - 13:45 und 23.09.2024, 15:00 - 16:45
+
+Prüfungstermine (Klausurtermin) für Architektur und Implementierung von DBMS (Prof. Dr. Jens Teubner):
+30.07.2024, 16:00 - 17:30 und 11.09.2024, 08:30 - 10:00
+
+Prüfungstermine (Klausurtermin) für Methodische Grundlagen des Software Engineering (Prof. Dr. Falk Howar):
+31.07.2024, 13:30 - 15:30 und 10.09.2024, 08:00 - 10:00
+
+Prüfungstermine (Klausurtermin) für Übersetzerbau (ÜB) (Dr. Oliver Rüthing):
+01.08.2024, 08:00 - 10:00 und 01.10.2024, 08:00 - 10:00
+
+Prüfungstermine (Klausurtermin) für Darstellung, Verarbeitung und Erwerb von Wissen (DVEW) (Prof. Dr. Jean Jung):
+01.08.2024, 12:00 - 14:00 und 25.09.2024, 14:00 - 16:00
+
+Prüfungstermine (Klausurtermin) für Rechnerarchitektur (RA) (Prof. Dr. Jian-Jia Chen):
+02.08.2024, 08:00 - 09:30 und 16.09.2024, 17:30 - 19:00
+
+Prüfungstermine (Klausurtermin) für Mathematik für Informatik 2 (MafI2) (Prof. Dr. Mario Botsch):
+05.08.2024, 08:00 - 11:00 und 25.09.2024, 08:00 - 11:00
+
+Prüfungstermine (Klausurtermin) für Grundbegriffe der Theoretischen Informatik (GTI) (Prof. Dr. Thomas Schwentick):
+06.08.2024, 08:00 - 11:00 und 27.09.2024, 13:30 - 16:30
+
+Prüfungstermine (Klausurtermin) für IT-Management (Prof. Dr. Christian Janiesch):
+06.08.2024, 12:00 - 13:30 und 20.09.2024, 08:30 - 10:00
+
+Prüfungstermine (Klausurtermin) für Rechnerstrukturen (RS) (Prof. Dr. Jian-Jia Chen):
+04.09.2024, 16:00 - 18:00
+
+Prüfungstermine (Klausurtermin) für Business Process Management (BPM) (Prof. Dr. Christian Janiesch):
+09.08.2024, 16:00 - 17:30 und 24.09.2024, 17:00 - 18:30
+
+Prüfungstermine (Klausurtermin) für Reinforcement Learning (RL) (Prof. Dr. Stefan Harmeling):
+12.08.2024, 08:15 - 10:00 und 26.08.2024, 09:00 - 10:45
+
+Prüfungstermine (Klausurtermin) für Deep Learning (DL) (Prof. Dr. Stefan Harmeling):
+14.08.2024, 09:00 - 10:45 und 28.08.2024, 09:00 - 10:45
+
+Prüfungstermine (Klausurtermin) für Datenstrukturen, Algorithmen und Programmierung 1 (DAP 1) (Prof. Dr. Johannes Fischer):
+09.08.2024, 12:00 - 14:00 und 17.09.2024, 13:30 - 15:30
+
+Prüfungstermine (Klausurtermin) für Betriebsysteme (BS) (Prof. Dr. Peter Ulbrich):
+07.08.2024, 08:00 - 10:00 und 19.09.2024, 13:00 - 15:00
+
+Prüfungstermine (Klausurtermin) für Betriebliche Informationssysteme (BIS) (Prof. Dr. Christian Janiesch):
+07.08.2024, 13:00 - 14:30 und 10.09.2024, 14:00 - 15:30
+
+Prüfungstermine (Klausurtermin) für Machine Learning Paradigms for Complex Data (Prof. Dr. Emmanuel Müller):
+08.08.2024, 12:30 - 15:30 und 26.09.2024, 13:00 - 15:00
+
+Prüfungstermine (Klausurtermin) für Mathematik für Informatik 1 (MafI 1) (Dr. Oliver Rüthing):
+03.09.2024, 08:00 - 11:00
+
+Informatik Studienplan:
+Im ersten Semester:
+-Wintersemester(WS): DAP 1, RS, MafI 1.
+-Sommersemester(SS): DAP 1, ETKT, IS, MafI 2.
+Im zweiten Semester:
+-Sommersemester(SS): DAP 2, BS, ETKT, MafI 2.
+-Wintersemester(WS): RS, RvS, MafI 1, Nebenfach.
+Im dritten Semester:
+-Wintersemester(WS): Logik, RvS, HaPra, WrumS, Nebenfach.
+-Sommersemester(SS): DAP 2, SWT, BS, GTI, Nebenfach.
+
+Informatik Studienplan:
+Im vierten Semester:
+-Sommersemester(SS): SWT, SoPra, IS, GTI, Nebenfach.
+-Wintersemester(WS): Praktikum DAP 2, Wahlpflicht Katalog "Konzepte für Software", SoPra, HaPra, WrumS, Nebenfach.
+Im fünften Semester:
+-Wintersemester(WS): Wahlpflicht Katalog "Konzepte für Software", Wahl, Wahlpflicht Katalog "Systeme der Informatik", Proseminar, Wahlpflicht Katalog "algorithmisch-formale Grundlagen", Nebenfach.
+-Sommersemester(SS): Wahlpflicht Katalog "Konzepte für Software", Proseminar, Logik, Wahlpflicht Katalog "Systeme der Informatik", Wahlpflicht Katalog "algorithmisch-formale Grundlagen"
+Im sechsten Semester:
+-Sommersemester(SS): Bachelor-Abschluss Modul, Fachprojekt, Wahlpflicht Katalog "Konzepte für Software", Wahl.
+-Wintersemester(WS): Bachelor-Abschluss Modul, Fachprojekt, Wahl, Wahl.
+
+
+Angewandte Informatik Studienplan:
+Im ersten Semester: DAP 1, RS, HM1.
+Im zweiten Semester: DAP 2, SWT, BS, HM2.
+Im dritten Semester: SoPra, RvS, HM3, Anwendungsfach.
+Im vierten Semester: Wirtschaftswissenschaften, IS, TIfAI, Anwendungsfach.
+Im fünften Semester: Wirtschaftswissenschaften, Wahlpflicht, Proseminar, WrumS, Anwendungsfach.
+Im sechsten Semester: Fachprojekt, Bachelor-Abschluss-Modul, Anwendungsfach.
+
+Wie ich Ihnen behilflich sein kann? Die Aufgaben des Preboarding Systems? Meine Aufgaben.
+Ich bin ein LLM-Based Preboarding System, das Fragen zum Bachelor-Studiengang Informatik in den folgenden Bereichen beantwortet:
+Modulhanduch (Fragen zu den verschiedenen Modulen).
+.Nebenfachvereinbarungen.
+-Klausurtermine.
+-Prüfungsordnung.
+-Bewerbungen und Anmeldungen (Studium, Vorlesung, Prüfung).
+-(HelpDesk, Abschlussarbeit, Semesterticket, UniAccount)
+
+SoPra Termine (SoPra Schedule):
+Im WiSe 24/25 (SoPra24d) vom 07.10.2024 – 31.01.2025 (Anmeldung TBA; ca 10 Wochen vor Start)
+Nach dem WiSe 24/25 (SoPra25a) vom 10.02.2025 - 21.03.2025 (Anmeldung TBA; ca 10 Wochen vor Start)
+Informationen zur Anmeldung finden Sie auf dieser Website: https://sopra.cs.tu-dortmund.de/wiki/veranstaltung/anmeldung
